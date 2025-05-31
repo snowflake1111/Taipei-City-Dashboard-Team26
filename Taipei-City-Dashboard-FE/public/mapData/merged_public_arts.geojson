@@ -1,0 +1,8006 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0002",
+        "art_name": "青春美樂地：山光",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "壁畫浮雕",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0003",
+        "art_name": "青春美樂地：天藍",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "壁畫浮雕",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0004",
+        "art_name": "青春美樂地：拈花",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "壁畫浮雕",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0005",
+        "art_name": "青春美樂地：水色",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "壁畫浮雕",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0006",
+        "art_name": "青春美樂地：惹草",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "壁畫浮雕",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0007",
+        "art_name": "青春美樂地：雲影",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "壁畫浮雕",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0008",
+        "art_name": "青春美樂地：奔放",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "壁畫浮雕",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0009",
+        "art_name": "青春美樂地：捷韻",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "垂吊造景",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0010",
+        "art_name": "青春美樂地：旋律",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "垂吊造景",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0011",
+        "art_name": "青春美樂地：搖曳",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "壁畫浮雕",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.9926546
+        ]
+      },
+      "properties": {
+        "art_id": "NT0012",
+        "art_name": "青春美樂地：凝聚",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "壁畫浮雕",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093386,
+          24.992654
+        ]
+      },
+      "properties": {
+        "art_id": "NT0013",
+        "art_name": "青春美樂地：隨風",
+        "district": "中和區",
+        "location": "捷運中和線南勢角站穿堂層與月台層",
+        "author": "賴純純",
+        "material": "垂吊造景",
+        "year_installed": "1998",
+        "manager": "臺北大眾捷運股份有限公司",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4503389,
+          25.0359431
+        ]
+      },
+      "properties": {
+        "art_id": "NT0014",
+        "art_name": "常新",
+        "district": "新莊區",
+        "location": "新北市新莊區公所",
+        "author": "楊英風",
+        "material": "\t雕塑",
+        "year_installed": "1998",
+        "manager": "新北市新莊區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6455535,
+          25.0092763
+        ]
+      },
+      "properties": {
+        "art_id": "NT0016",
+        "art_name": "時空行旅：大地脈動(1組3件)",
+        "district": "石碇區",
+        "location": "國道五號高速公路石碇交流道綠帶",
+        "author": "薩璨如、尼古拉．貝杜（Nicolas Bertoux",
+        "material": "雕塑",
+        "year_installed": "2000",
+        "manager": "交通部高速公路局北區養護工程分局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6455535,
+          25.0092763
+        ]
+      },
+      "properties": {
+        "art_id": "NT0017",
+        "art_name": "時空行旅：光陰隧道(1組3件)",
+        "district": "石碇區",
+        "location": "國道五號高速公路石碇休息站庭園",
+        "author": "薩璨如、尼古拉．貝杜（Nicolas Bertoux",
+        "material": "雕塑",
+        "year_installed": "2000",
+        "manager": "交通部高速公路局北區養護工程分局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6456535,
+          25.0092763
+        ]
+      },
+      "properties": {
+        "art_id": "NT0018",
+        "art_name": "時空行旅：時空漂鳥(1組3件)",
+        "district": "石碇區",
+        "location": "國道五號高速公路石碇休息站安全島上",
+        "author": "薩璨如、尼古拉．貝杜（Nicolas Bertoux",
+        "material": "雕塑",
+        "year_installed": "2000",
+        "manager": "交通部高速公路局北區養護工程分局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.352034,
+          24.9492984
+        ]
+      },
+      "properties": {
+        "art_id": "NT0019",
+        "art_name": "月門傳說",
+        "district": "鶯歌區",
+        "location": "新北市立鶯歌陶瓷博物館後方戶外廣場",
+        "author": "鄧惠芬",
+        "material": "雕塑",
+        "year_installed": "2000",
+        "manager": "新北市立鶯歌陶瓷博物館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3524521,
+          24.9523984
+        ]
+      },
+      "properties": {
+        "art_id": "NT0020",
+        "art_name": "彩雲呈祥",
+        "district": "鶯歌區",
+        "location": "新北市立鶯歌陶瓷博物館戶外入口前水景區",
+        "author": "劉鎮洲",
+        "material": "雕塑",
+        "year_installed": "2000",
+        "manager": "新北市立鶯歌陶瓷博物館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.352823,
+          24.9445384
+        ]
+      },
+      "properties": {
+        "art_id": "NT0021",
+        "art_name": "節度使",
+        "district": "鶯歌區",
+        "location": "新北市立鶯歌陶瓷博物館室內B1水景區",
+        "author": "白宗晉",
+        "material": "雕塑",
+        "year_installed": "2000",
+        "manager": "新北市立鶯歌陶瓷博物館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.352034,
+          24.9345719
+        ]
+      },
+      "properties": {
+        "art_id": "NT0022",
+        "art_name": "禧門",
+        "district": "鶯歌區",
+        "location": "新北市立鶯歌陶瓷博物館戶外入口前水景區",
+        "author": "邱煥堂",
+        "material": "雕塑",
+        "year_installed": "2000",
+        "manager": "新北市立鶯歌陶瓷博物館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4649621,
+          25.0131429
+        ]
+      },
+      "properties": {
+        "art_id": "NT0026",
+        "art_name": "竹筍地標",
+        "district": "板橋區",
+        "location": "新北市板橋區市民廣場",
+        "author": "游明國",
+        "material": "雕塑",
+        "year_installed": "2001",
+        "manager": "\t新北市政府",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5024375,
+          25.0852879
+        ]
+      },
+      "properties": {
+        "art_id": "NT0028",
+        "art_name": "泳者",
+        "district": "板橋區",
+        "location": "板橋車站B1臺鐵、高鐵隔間牆上鑲嵌玻璃",
+        "author": "Xavier Roux",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2001",
+        "manager": "交通部臺灣鐵路管理局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5024375,
+          25.0852879
+        ]
+      },
+      "properties": {
+        "art_id": "NT0029",
+        "art_name": "花源",
+        "district": "板橋區",
+        "location": "板橋車站西側圓梯中間透空部分",
+        "author": "林書民",
+        "material": "垂吊造景",
+        "year_installed": "2001",
+        "manager": "交通部臺灣鐵路管理局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5024375,
+          25.0852879
+        ]
+      },
+      "properties": {
+        "art_id": "NT0030",
+        "art_name": "夢蝶",
+        "district": "板橋區",
+        "location": "板橋車站東側圓梯中間透空部分",
+        "author": "林書民",
+        "material": "垂吊造景",
+        "year_installed": "2001",
+        "manager": "交通部臺灣鐵路管理局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5024375,
+          25.0852879
+        ]
+      },
+      "properties": {
+        "art_id": "NT0031",
+        "art_name": "穿梭時空的八種元素",
+        "district": "板橋區",
+        "location": "板橋車站中央走道1樓、B1小天窗",
+        "author": "黃銘哲╱龍門新藝空間有限公司",
+        "material": "垂吊造景",
+        "year_installed": "2001",
+        "manager": "交通部臺灣鐵路管理局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5024375,
+          25.0852879
+        ]
+      },
+      "properties": {
+        "art_id": "NT0032",
+        "art_name": "時光的軌跡",
+        "district": "板橋區",
+        "location": "板橋車站1樓東南口戶外廣場",
+        "author": "田邊 武",
+        "material": "雕塑",
+        "year_installed": "2001",
+        "manager": "交通部臺灣鐵路管理局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5024375,
+          25.0852879
+        ]
+      },
+      "properties": {
+        "art_id": "NT0033",
+        "art_name": "慾望在飛行",
+        "district": "板橋區",
+        "location": "板橋車站1樓大廳",
+        "author": "黃銘哲╱龍門新藝空間有限公司",
+        "material": "垂吊造景",
+        "year_installed": "2001",
+        "manager": "交通部臺灣鐵路管理局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5024375,
+          25.0852879
+        ]
+      },
+      "properties": {
+        "art_id": "NT0034",
+        "art_name": "樹液：生命的竄流",
+        "district": "板橋區",
+        "location": "板橋車站B2、B3、B4",
+        "author": "大空雅子",
+        "material": "壁畫彩繪/垂吊造景",
+        "year_installed": "2001",
+        "manager": "交通部臺灣鐵路管理局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5024375,
+          25.0852879
+        ]
+      },
+      "properties": {
+        "art_id": "NT0035",
+        "art_name": "鐵道馳騁",
+        "district": "板橋區",
+        "location": "板橋車站1樓空間",
+        "author": "董振平╱龍門新藝空間有限公司",
+        "material": "街道家具",
+        "year_installed": "2001",
+        "manager": "交通部臺灣鐵路管理局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4522127,
+          25.0462173
+        ]
+      },
+      "properties": {
+        "art_id": "NT0036",
+        "art_name": "啟動新莊",
+        "district": "新莊區",
+        "location": "新莊區中港厝休閒廣場",
+        "author": "李良仁",
+        "material": "雕塑",
+        "year_installed": "2001",
+        "manager": "新北市新莊區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4649621,
+          25.0131429
+        ]
+      },
+      "properties": {
+        "art_id": "NT0052",
+        "art_name": "鳳凰日晷",
+        "district": "板橋區",
+        "location": "新北市板橋區市民廣場",
+        "author": "郭大維",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "新北市政府",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.151927,
+          35.090879
+        ]
+      },
+      "properties": {
+        "art_id": "NT0054",
+        "art_name": "金包裡",
+        "district": "金山區",
+        "location": "金山區中山堂旁",
+        "author": "王文志",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "新北市金山區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6471835,
+          25.2232911
+        ]
+      },
+      "properties": {
+        "art_id": "NT0057",
+        "art_name": "張力",
+        "district": "金山區",
+        "location": "新北市金山區民生路194號附近",
+        "author": "法布里奇歐．迪耶其（Fabrizio Dieci）",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "新北市金山區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4066973,
+          36.8434938
+        ]
+      },
+      "properties": {
+        "art_id": "NT0058",
+        "art_name": "犀牛計劃",
+        "district": "金山區",
+        "location": "新北市金山區陽金公路上",
+        "author": "羅傑、顧鐸",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "新北市金山區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4909375,
+          25.0865192
+        ]
+      },
+      "properties": {
+        "art_id": "NT0081",
+        "art_name": "花．漾要綻放了",
+        "district": "三重區",
+        "location": "新北市立三重高級中學",
+        "author": "李佳熹",
+        "material": "地坪鑲嵌",
+        "year_installed": "2005",
+        "manager": "新北市立三重高級中學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5126599,
+          25.0016433
+        ]
+      },
+      "properties": {
+        "art_id": "NT0084",
+        "art_name": "在綠裡盹一下",
+        "district": "中和區",
+        "location": "國立臺灣圖書館1至4樓挑空區",
+        "author": "崔惠宇",
+        "material": "垂吊造景",
+        "year_installed": "2005",
+        "manager": "國立臺灣圖書館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5126599,
+          25.0016433
+        ]
+      },
+      "properties": {
+        "art_id": "NT0085",
+        "art_name": "美麗之島",
+        "district": "中和區",
+        "location": "國立臺灣圖書館入口大廳",
+        "author": "劉中興、陶亞倫",
+        "material": "科技藝術",
+        "year_installed": "2005",
+        "manager": "國立臺灣圖書館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5126599,
+          25.0016433
+        ]
+      },
+      "properties": {
+        "art_id": "NT0086",
+        "art_name": "書海徜徉",
+        "district": "中和區",
+        "location": "國立臺灣圖書館入口廣場",
+        "author": "黃清輝",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "國立臺灣圖書館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5126599,
+          25.0016433
+        ]
+      },
+      "properties": {
+        "art_id": "NT0087",
+        "art_name": "揮灑、滲透、停駐",
+        "district": "中和區",
+        "location": "國立臺灣圖書館B2",
+        "author": "蔡淑瑩",
+        "material": "垂釣造景",
+        "year_installed": "2005",
+        "manager": "國立臺灣圖書館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5126599,
+          25.0016433
+        ]
+      },
+      "properties": {
+        "art_id": "NT0088",
+        "art_name": "變色龍",
+        "district": "中和區",
+        "location": "國立臺灣圖書館四周路燈",
+        "author": "姚仁恭",
+        "material": "街道家具",
+        "year_installed": "2005",
+        "manager": "國立臺灣圖書館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7243273,
+          25.0238939
+        ]
+      },
+      "properties": {
+        "art_id": "NT0089",
+        "art_name": "四分車傳奇之生活剪影",
+        "district": "平溪區",
+        "location": "新北市平溪區菁桐礦業生活館",
+        "author": "林昭慶",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "新北市平溪區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2546987,
+          31.9695889
+        ]
+      },
+      "properties": {
+        "art_id": "NT0124",
+        "art_name": "展翅高飛",
+        "district": "新店區",
+        "location": "國立新店高級中學",
+        "author": "李昀珊",
+        "material": "雕塑",
+        "year_installed": "2008",
+        "manager": "國立新店高級中學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3556725,
+          24.9512459
+        ]
+      },
+      "properties": {
+        "art_id": "NT0141",
+        "art_name": "王者之杖1804 ",
+        "district": "鶯歌區",
+        "location": "三鶯之心藝術特區",
+        "author": "施宣宇",
+        "material": "地景藝術",
+        "year_installed": "2009",
+        "manager": "新北市政府文化局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3556725,
+          24.9512459
+        ]
+      },
+      "properties": {
+        "art_id": "NT0142",
+        "art_name": "走泥 ",
+        "district": "鶯歌區",
+        "location": "三鶯之心藝術特區",
+        "author": " 鞏文宜",
+        "material": "地景藝術",
+        "year_installed": "2009",
+        "manager": "新北市政府文化局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3556725,
+          24.9512459
+        ]
+      },
+      "properties": {
+        "art_id": "NT0143",
+        "art_name": "坯 ",
+        "district": "鶯歌區",
+        "location": "三鶯之心藝術特區",
+        "author": "林舜龍",
+        "material": "地景藝術",
+        "year_installed": "2009",
+        "manager": "新北市政府文化局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3556725,
+          24.9512459
+        ]
+      },
+      "properties": {
+        "art_id": "NT0144",
+        "art_name": "瓷意生活 ",
+        "district": "鶯歌區",
+        "location": "三鶯之心藝術特區",
+        "author": "吳建福",
+        "material": "地景藝術",
+        "year_installed": "2009",
+        "manager": "新北市政府文化局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4146418,
+          24.9553965
+        ]
+      },
+      "properties": {
+        "art_id": "NT0158",
+        "art_name": "樹屋的記憶",
+        "district": "土城區",
+        "location": "新北市土城區頂埔國民小學",
+        "author": "林昭慶",
+        "material": "\t雕塑",
+        "year_installed": "2011",
+        "manager": "新北市土城區頂埔國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5203009,
+          25.0091716
+        ]
+      },
+      "properties": {
+        "art_id": "NT0162",
+        "art_name": "幸福手牽牽",
+        "district": "永和區",
+        "location": "新北市永和區公所",
+        "author": "施承澤 、 黃沛瀅",
+        "material": "\t壁面裝置",
+        "year_installed": "2011",
+        "manager": "新北市永和區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8577067,
+          25.1073798
+        ]
+      },
+      "properties": {
+        "art_id": "NT0164",
+        "art_name": "金采久久．百年生輝",
+        "district": "瑞芳區",
+        "location": "新北市立黃金博物館",
+        "author": "李昀珊",
+        "material": "雕塑",
+        "year_installed": "2011",
+        "manager": "新北市立黃金博物館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4051914,
+          36.8439594
+        ]
+      },
+      "properties": {
+        "art_id": "NT0165",
+        "art_name": "繽紛樂活‧健康滿分 (移置)",
+        "district": "新莊區",
+        "location": "行政院衛生署臺北醫院",
+        "author": "李昀珊",
+        "material": "\t立體裝置",
+        "year_installed": "2011",
+        "manager": "行政院衛生署臺北醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4503389,
+          25.0359431
+        ]
+      },
+      "properties": {
+        "art_id": "NT0166",
+        "art_name": "古往今憶",
+        "district": "新莊區",
+        "location": "新北市新莊區公所",
+        "author": "林正仁",
+        "material": "立體裝置",
+        "year_installed": "2011",
+        "manager": "新北市新莊區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8333505,
+          25.0952804
+        ]
+      },
+      "properties": {
+        "art_id": "NT0167",
+        "art_name": "矩成",
+        "district": "瑞芳區",
+        "location": "新北市瑞芳區瑞芳國民小學",
+        "author": "歐啦工作室",
+        "material": "立體裝置",
+        "year_installed": "2011",
+        "manager": "新北市瑞芳區瑞芳國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4916046,
+          24.9925318
+        ]
+      },
+      "properties": {
+        "art_id": "NT0176",
+        "art_name": "悅動",
+        "district": "中和區",
+        "location": "新北市立錦和高級中學",
+        "author": "謙漢設計有限公司",
+        "material": "\t立體裝置",
+        "year_installed": "2011",
+        "manager": "新北市立錦和高級中學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3768361,
+          25.0724538
+        ]
+      },
+      "properties": {
+        "art_id": "NT0204",
+        "art_name": "新的一天(1組2件)",
+        "district": "林口區",
+        "location": "新北市林口區婦幼公園",
+        "author": "陳昌銘",
+        "material": "\t壁畫鑲嵌",
+        "year_installed": "2012",
+        "manager": "新北市林口區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3720715,
+          25.081529
+        ]
+      },
+      "properties": {
+        "art_id": "NT0242",
+        "art_name": "紅土地樂園—OX遊戲(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3720715,
+          25.081529
+        ]
+      },
+      "properties": {
+        "art_id": "NT0243",
+        "art_name": "紅土地樂園—鐵琴(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3720735,
+          25.081527
+        ]
+      },
+      "properties": {
+        "art_id": "NT0244",
+        "art_name": "紅土地樂園—書本(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3720715,
+          25.081522
+        ]
+      },
+      "properties": {
+        "art_id": "NT0245",
+        "art_name": "紅土地樂園—筆山(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3720725,
+          25.081539
+        ]
+      },
+      "properties": {
+        "art_id": "NT0246",
+        "art_name": "紅土地樂園—手錶(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3720755,
+          25.081519
+        ]
+      },
+      "properties": {
+        "art_id": "NT0247",
+        "art_name": "紅土地樂園—相機(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3720711,
+          25.08152
+        ]
+      },
+      "properties": {
+        "art_id": "NT0248",
+        "art_name": "紅土地樂園—望遠鏡(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3720719,
+          25.081511
+        ]
+      },
+      "properties": {
+        "art_id": "NT0249",
+        "art_name": "紅土地樂園—削鉛筆機(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.37207152,
+          25.081521
+        ]
+      },
+      "properties": {
+        "art_id": "NT0250",
+        "art_name": "紅土地樂園—膠帶台(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.37207153,
+          25.081544
+        ]
+      },
+      "properties": {
+        "art_id": "NT0251",
+        "art_name": "紅土地樂園—咖啡杯(1組10件)",
+        "district": "林口區",
+        "location": "新北市頭湖國民小學校舍間中庭綠地",
+        "author": "財團法人台北市開放空間文教基金會/黃浩德",
+        "material": "雕塑暨校園傢俱設施",
+        "year_installed": "2012",
+        "manager": "新北市頭湖國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4369126,
+          25.0827764
+        ]
+      },
+      "properties": {
+        "art_id": "NT0256",
+        "art_name": "通往秘密基地",
+        "district": "五股區",
+        "location": "新北市五股國民小學",
+        "author": "季行藝術工作室/歐志成、葉茗和",
+        "material": "雕塑",
+        "year_installed": "2012",
+        "manager": "新北市五股區五股國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4176862,
+          25.0218357
+        ]
+      },
+      "properties": {
+        "art_id": "NT0265",
+        "art_name": "一線生機",
+        "district": "新莊區",
+        "location": "新北市新莊區裕民行政大樓",
+        "author": "洪天回",
+        "material": "立體裝置",
+        "year_installed": "2013",
+        "manager": "新北市新莊區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3252004,
+          40.0100806
+        ]
+      },
+      "properties": {
+        "art_id": "NT0335",
+        "art_name": "穿越",
+        "district": "板橋區",
+        "location": "園區休憩廣場",
+        "author": "高德恩",
+        "material": "雕塑",
+        "year_installed": "2015",
+        "manager": "國軍退除役官兵輔導委員會板橋榮譽國民之家",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3252004,
+          40.0100806
+        ]
+      },
+      "properties": {
+        "art_id": "NT0336",
+        "art_name": "停泊",
+        "district": "板橋區",
+        "location": "園區休憩廣場",
+        "author": "胡棟民",
+        "material": "雕塑",
+        "year_installed": "2015",
+        "manager": "國軍退除役官兵輔導委員會板橋榮譽國民之家",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7565612,
+          35.0081253
+        ]
+      },
+      "properties": {
+        "art_id": "NT0340",
+        "art_name": "飲水思源-Ⅱ藝術薰陶",
+        "district": "三峽區",
+        "location": "新建校園之庭園廣場",
+        "author": "金唐山設計工程有限公司-李國雄",
+        "material": "雕塑、傢俱設施",
+        "year_installed": "2015",
+        "manager": "新北市三峽區三峽國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51934,
+          25.0129357
+        ]
+      },
+      "properties": {
+        "art_id": "NT0341",
+        "art_name": "藝遊網溪─當我們圈在一起I.成長之旅",
+        "district": "永和區",
+        "location": "23441新北市永和區竹林路79號大門口",
+        "author": "三三創設工作室",
+        "material": "雕塑、傢俱設施",
+        "year_installed": "2015",
+        "manager": "新北市永和區網溪國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51934,
+          25.0129357
+        ]
+      },
+      "properties": {
+        "art_id": "NT0342",
+        "art_name": "藝遊網溪─當我們圈在一起II.光之森",
+        "district": "永和區",
+        "location": "23441新北市永和區竹林路79號",
+        "author": "三三創設工作室",
+        "material": "傢俱設施",
+        "year_installed": "2015",
+        "manager": "新北市永和區網溪國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51934,
+          25.0129357
+        ]
+      },
+      "properties": {
+        "art_id": "NT0343",
+        "art_name": "水邊之徑",
+        "district": "永和區",
+        "location": "23441新北市永和區竹林路79號大門口圖書館1、2、3樓連通走廊",
+        "author": "本間純 (達達創意股份有限公司)",
+        "material": "雕塑",
+        "year_installed": "2015",
+        "manager": "新北市永和區網溪國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9682121,
+          24.8125484
+        ]
+      },
+      "properties": {
+        "art_id": "NT0344",
+        "art_name": "希望樹",
+        "district": "新莊區",
+        "location": "室外街角廣場",
+        "author": "王存武",
+        "material": "雕塑",
+        "year_installed": "2015",
+        "manager": "行政院新莊聯合辦公大樓",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907008,
+          25.0608321
+        ]
+      },
+      "properties": {
+        "art_id": "NT0368",
+        "art_name": "綠葉新生",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區1樓",
+        "author": "陳宏偉",
+        "material": "雕塑",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907004,
+          25.0608322
+        ]
+      },
+      "properties": {
+        "art_id": "NT0369",
+        "art_name": "生命詩篇I",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區3樓",
+        "author": "吳少英",
+        "material": "數位影像",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907001,
+          25.0608323
+        ]
+      },
+      "properties": {
+        "art_id": "NT0370",
+        "art_name": "無憂雀鳥",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區5樓",
+        "author": "余燈銓",
+        "material": "雕塑",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.490701,
+          25.0608324
+        ]
+      },
+      "properties": {
+        "art_id": "NT0371",
+        "art_name": "曙暮光",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區5樓",
+        "author": "吳少英",
+        "material": "數位影像",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907002,
+          25.0608329
+        ]
+      },
+      "properties": {
+        "art_id": "NT0372",
+        "art_name": "希望城市",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區5樓",
+        "author": "鄧惠芬",
+        "material": "壁畫",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907003,
+          25.0608322
+        ]
+      },
+      "properties": {
+        "art_id": "NT0373",
+        "art_name": "生命之光",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區7樓",
+        "author": "鄧惠芬",
+        "material": "浮雕",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907004,
+          25.0608328
+        ]
+      },
+      "properties": {
+        "art_id": "NT0374",
+        "art_name": "生命剪影",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區8樓",
+        "author": "鄧惠芬",
+        "material": "浮雕",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907005,
+          25.0608326
+        ]
+      },
+      "properties": {
+        "art_id": "NT0375",
+        "art_name": "寧靜海",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區6樓",
+        "author": "吳少英",
+        "material": "數位影像",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907006,
+          25.0608324
+        ]
+      },
+      "properties": {
+        "art_id": "NT0376",
+        "art_name": "細胞",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區789樓",
+        "author": "曾士彥",
+        "material": "傢俱設施",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907011,
+          25.0608331
+        ]
+      },
+      "properties": {
+        "art_id": "NT0377",
+        "art_name": "生命詩篇II",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區9樓",
+        "author": "吳少英",
+        "material": "數位影像",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4907018,
+          25.0608311
+        ]
+      },
+      "properties": {
+        "art_id": "NT0378",
+        "art_name": "人生風景",
+        "district": "三重區",
+        "location": "新北市立聯合醫院三重院區10樓",
+        "author": "盧明德",
+        "material": "繪畫",
+        "year_installed": "2016",
+        "manager": "新北市立聯合醫院",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7599252,
+          35.0011909
+        ]
+      },
+      "properties": {
+        "art_id": "NT0399",
+        "art_name": "廌",
+        "district": "三峽區",
+        "location": "法學院廣場平台",
+        "author": "黃沛瀅、施承澤",
+        "material": "雕塑",
+        "year_installed": "2017",
+        "manager": "國立臺北大學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.759887,
+          35.0295656
+        ]
+      },
+      "properties": {
+        "art_id": "NT0418",
+        "art_name": "填字遊戲",
+        "district": "三峽區",
+        "location": "圖書館入口處廣場",
+        "author": "崔永嬿",
+        "material": "傢俱設施（含指標系統、座椅、燈具）",
+        "year_installed": "2017",
+        "manager": "新北市立圖書館",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4062749,
+          36.843497
+        ]
+      },
+      "properties": {
+        "art_id": "NT0421",
+        "art_name": "小穗的書中奇幻之旅",
+        "district": "中和區",
+        "location": "新建校舍圖書館 ",
+        "author": "藍鯨文化有限公司-郭俊廷",
+        "material": "垂吊及壁掛造形",
+        "year_installed": "2017",
+        "manager": "新北市中和區積穗國小",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5516425,
+          25.2910356
+        ]
+      },
+      "properties": {
+        "art_id": "NT0431",
+        "art_name": "融",
+        "district": "石門區",
+        "location": "新北市石門區山溪市民活動中心",
+        "author": "張子隆",
+        "material": "雕塑",
+        "year_installed": "2018",
+        "manager": "新北市政府石門區公所",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3739436,
+          25.0727428
+        ]
+      },
+      "properties": {
+        "art_id": "NT0439",
+        "art_name": "幸福家園-抱枕小蛙",
+        "district": "林口區",
+        "location": "忠孝路二路入口綠帶及延伸至園區內窪地",
+        "author": "林舜龍",
+        "material": "雕塑",
+        "year_installed": "2018",
+        "manager": "林口行政園區管理委員會",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3739436,
+          25.0727428
+        ]
+      },
+      "properties": {
+        "art_id": "NT0440",
+        "art_name": "幸福家園-滑板小蛙",
+        "district": "林口區",
+        "location": "忠孝路二路入口綠帶及延伸至園區內窪地",
+        "author": "林舜龍",
+        "material": "雕塑",
+        "year_installed": "2018",
+        "manager": "林口行政園區管理委員會",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3739436,
+          25.0727428
+        ]
+      },
+      "properties": {
+        "art_id": "NT0441",
+        "art_name": "幸福家園-K書中心",
+        "district": "林口區",
+        "location": "忠孝路二路入口綠帶及延伸至園區內窪地",
+        "author": "林舜龍",
+        "material": "雕塑",
+        "year_installed": "2018",
+        "manager": "林口行政園區管理委員會",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3739436,
+          25.0727428
+        ]
+      },
+      "properties": {
+        "art_id": "NT0442",
+        "art_name": "幸福家園-漸漸升起的愛情",
+        "district": "林口區",
+        "location": "忠孝路二路入口綠帶及延伸至園區內窪地",
+        "author": "林舜龍",
+        "material": "雕塑",
+        "year_installed": "2018",
+        "manager": "林口行政園區管理委員會",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3739436,
+          25.0727428
+        ]
+      },
+      "properties": {
+        "art_id": "NT0443",
+        "art_name": "幸福家園-合家歡的出遊踏青",
+        "district": "林口區",
+        "location": "忠孝路二路入口綠帶及延伸至園區內窪地",
+        "author": "林舜龍",
+        "material": "雕塑",
+        "year_installed": "2018",
+        "manager": "林口行政園區管理委員會",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3739436,
+          25.0727428
+        ]
+      },
+      "properties": {
+        "art_id": "NT0444",
+        "art_name": "幸福家園-泡泡小蛙＆玩球小蛙",
+        "district": "林口區",
+        "location": "忠孝路二路入口綠帶及延伸至園區內窪地",
+        "author": "林舜龍/達達創意股份有限公司",
+        "material": "雕塑",
+        "year_installed": "2018",
+        "manager": "林口行政園區管理委員會",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3739436,
+          25.0727428
+        ]
+      },
+      "properties": {
+        "art_id": "NT0445",
+        "art_name": "幸福家園-鶼鰈情深",
+        "district": "林口區",
+        "location": "忠孝路二路入口綠帶及延伸至園區內窪地",
+        "author": "林舜龍",
+        "material": "雕塑",
+        "year_installed": "2018",
+        "manager": "林口行政園區管理委員會",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3739436,
+          25.0727428
+        ]
+      },
+      "properties": {
+        "art_id": "NT0448",
+        "art_name": "幸福家園-金色的夢想起飛",
+        "district": "林口區",
+        "location": "忠孝路二路入口綠帶及延伸至園區內窪地",
+        "author": "林舜龍",
+        "material": "雕塑",
+        "year_installed": "2018",
+        "manager": "林口行政園區管理委員會",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3739436,
+          25.0727428
+        ]
+      },
+      "properties": {
+        "art_id": "NT0449",
+        "art_name": "幸福家園-彩虹橋",
+        "district": "林口區",
+        "location": "忠孝路二路入口綠帶及延伸至園區內窪地",
+        "author": "水內貴英",
+        "material": "地景藝術",
+        "year_installed": "2018",
+        "manager": "林口行政園區管理委員會",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2171636,
+          23.0006993
+        ]
+      },
+      "properties": {
+        "art_id": "NT0462",
+        "art_name": "羽光之翼-羽光(1組3件)",
+        "district": "土城區",
+        "location": "1樓入口大廳",
+        "author": "林建佑、林韋佑",
+        "material": "垂吊及壁掛造形",
+        "year_installed": "2020",
+        "manager": "新北市政府衛生局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2064243,
+          22.9867645
+        ]
+      },
+      "properties": {
+        "art_id": "NT0463",
+        "art_name": "羽光之翼-時光軸(1組3件)",
+        "district": "土城區",
+        "location": "1樓院史牆",
+        "author": "溫孟瑜",
+        "material": "數位影像",
+        "year_installed": "2020",
+        "manager": "新北市政府衛生局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0387267,
+          22.3143281
+        ]
+      },
+      "properties": {
+        "art_id": "NT0464",
+        "art_name": "羽光之翼-永恆之翼(1組3件)",
+        "district": "土城區",
+        "location": "2樓戶外草地區",
+        "author": "姜憲明、陳麗杏",
+        "material": "雕塑",
+        "year_installed": "2020",
+        "manager": "新北市政府衛生局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4062749,
+          36.843497
+        ]
+      },
+      "properties": {
+        "art_id": "NT0474",
+        "art_name": "三重狂想曲-三重獸1 (1組4件)",
+        "district": "三重區",
+        "location": "圖書館左側綠林",
+        "author": "許敬忠",
+        "material": "雕塑",
+        "year_installed": "2020",
+        "manager": "新北市政府交通局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4062749,
+          36.843497
+        ]
+      },
+      "properties": {
+        "art_id": "NT0475",
+        "art_name": "三重狂想曲-三重獸2 (1組4件)",
+        "district": "三重區",
+        "location": "圖書館左側綠林",
+        "author": "許敬忠",
+        "material": "雕塑",
+        "year_installed": "2020",
+        "manager": "新北市政府交通局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4062749,
+          36.843497
+        ]
+      },
+      "properties": {
+        "art_id": "NT0476",
+        "art_name": "三重狂想曲-三重獸3 (1組4件)",
+        "district": "三重區",
+        "location": "圖書館左側綠林",
+        "author": "許敬忠",
+        "material": "雕塑",
+        "year_installed": "2020",
+        "manager": "新北市政府交通局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5770498,
+          25.0747295
+        ]
+      },
+      "properties": {
+        "art_id": "NT0477",
+        "art_name": "三重狂想曲-雲想 (1組4件)",
+        "district": "三重區",
+        "location": "工科大樓前綠地",
+        "author": "許敬忠",
+        "material": "雕塑、傢俱設施（含指標系統、座椅、燈具）",
+        "year_installed": "2020",
+        "manager": "新北市政府交通局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4470026,
+          25.0870722
+        ]
+      },
+      "properties": {
+        "art_id": "NT0482",
+        "art_name": "洲",
+        "district": "蘆洲區",
+        "location": "入口廣場草坪",
+        "author": "吳建福",
+        "material": "雕塑",
+        "year_installed": "2020",
+        "manager": "新北市政府交通局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1216845,
+          25.0505953
+        ]
+      },
+      "properties": {
+        "art_id": "NT0499",
+        "art_name": "陽光‧華爾滋---音樂在哪裡? (1組4件)",
+        "district": "板橋區",
+        "location": "音樂公園-1 號/2 號梯間",
+        "author": "許敏雄",
+        "material": "壁畫（含以鑲嵌、拼貼製作之壁畫）、浮雕、垂吊及壁掛造形",
+        "year_installed": "2021",
+        "manager": "",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.763438,
+          34.934439
+        ]
+      },
+      "properties": {
+        "art_id": "NT0504",
+        "art_name": "光拍拍與毛毛球",
+        "district": "三重區",
+        "location": "校園內樹屋遊樂場",
+        "author": "潘羽祐",
+        "material": "不鏽鋼、烤漆、馬賽克、鋼筋混凝土、強化玻璃",
+        "year_installed": "2022",
+        "manager": "新北市三重區光榮國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.4409023,
+          34.4982361
+        ]
+      },
+      "properties": {
+        "art_id": "NT0508",
+        "art_name": "理解之門",
+        "district": "新店區",
+        "location": "\t大門",
+        "author": "IMO建築暨設計事務所",
+        "material": "街道家具",
+        "year_installed": "2022",
+        "manager": "\t交通部中央氣象署",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8192104,
+          38.7285305
+        ]
+      },
+      "properties": {
+        "art_id": "NT0518",
+        "art_name": "嬉遊新埔知識森林",
+        "district": "板橋區",
+        "location": "圖書館前中庭廣場",
+        "author": "大瑪爾藝術設計有限公司‧陳宏誠",
+        "material": "雕塑",
+        "year_installed": "2022",
+        "manager": "新北市板橋區新埔國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7959149,
+          23.6742488
+        ]
+      },
+      "properties": {
+        "art_id": "NT0520",
+        "art_name": "複雲島",
+        "district": "新店區",
+        "location": "室內大廳空間",
+        "author": "\t何理互動設計有限公司",
+        "material": "垂吊造景",
+        "year_installed": "2022",
+        "manager": "新北市政府經濟發展局",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.526813,
+          25.1129588
+        ]
+      },
+      "properties": {
+        "art_id": "TP0008",
+        "art_name": "西方星象圖",
+        "district": "士林區",
+        "location": "台北市士林區中山北路6段392號",
+        "author": "張明風",
+        "material": "地坪鑲嵌",
+        "year_installed": "2004",
+        "manager": "台北市士林區士東國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.526813,
+          25.1129588
+        ]
+      },
+      "properties": {
+        "art_id": "TP0009",
+        "art_name": "中國天球圖",
+        "district": "士林區",
+        "location": "台北市士林區中山北路6段392號",
+        "author": "張明風",
+        "material": "地坪鑲嵌",
+        "year_installed": "2004",
+        "manager": "台北市士林區士東國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1051915,
+          22.3583856
+        ]
+      },
+      "properties": {
+        "art_id": "TP0014",
+        "art_name": "詩咚",
+        "district": "士林區",
+        "location": "中山北路6段392號",
+        "author": "張明風",
+        "material": "雕塑、地坪鑲嵌",
+        "year_installed": "2004",
+        "manager": "台北市士林區士東國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51962,
+          25.0933
+        ]
+      },
+      "properties": {
+        "art_id": "TP0015",
+        "art_name": "來電E世代",
+        "district": "士林區",
+        "location": "台北市承德路基河路口",
+        "author": "",
+        "material": "雕塑",
+        "year_installed": "2004",
+        "manager": "台灣電力公司輸變電工程處北區施工處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5197004,
+          25.0503244
+        ]
+      },
+      "properties": {
+        "art_id": "TP0016",
+        "art_name": "Take a Break",
+        "district": "大同區",
+        "location": "台北市大同區長安西路37之1號／一樓川堂天花板",
+        "author": "同恩工業有限公司",
+        "material": "其他：聲音裝置",
+        "year_installed": "2002",
+        "manager": "臺北市立建成國民中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5197004,
+          25.0503244
+        ]
+      },
+      "properties": {
+        "art_id": "TP0017",
+        "art_name": "快樂是什麼？",
+        "district": "大同區",
+        "location": "台北市大同區長安西路37之1號／一樓至三樓走廊",
+        "author": "今豪廣告工程有限公司",
+        "material": "其他：影像輸出燈箱",
+        "year_installed": "2002",
+        "manager": "臺北市立建成國民中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5197004,
+          25.0503244
+        ]
+      },
+      "properties": {
+        "art_id": "TP0018",
+        "art_name": "地圖",
+        "district": "大同區",
+        "location": "台北市大同區長安西路37之1號／川堂",
+        "author": "黃文慶",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2002",
+        "manager": "臺北市立建成國民中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5197004,
+          25.0503244
+        ]
+      },
+      "properties": {
+        "art_id": "TP0019",
+        "art_name": "飛揚",
+        "district": "大同區",
+        "location": "台北市大同區長安西路37之1號／三樓至五樓走廊柱",
+        "author": "黃銘哲",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "臺北市立建成國民中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5123609,
+          25.0660116
+        ]
+      },
+      "properties": {
+        "art_id": "TP0020",
+        "art_name": "智與樂",
+        "district": "大同區",
+        "location": "台北市大同區昌吉街97號",
+        "author": "",
+        "material": "雕塑、其他：校園造型",
+        "year_installed": "2005",
+        "manager": "臺北市大同區延平國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343351,
+          25.0231428
+        ]
+      },
+      "properties": {
+        "art_id": "TP0024",
+        "art_name": "翔",
+        "district": "大安區",
+        "location": "台北市大安區新生南路三段30號／新生南路與親水步道口",
+        "author": "林正仁",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "公務人力發展中心聯絡人-吳怡如/83691399",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343351,
+          25.0231428
+        ]
+      },
+      "properties": {
+        "art_id": "TP0025",
+        "art_name": "卓越與親民",
+        "district": "大安區",
+        "location": "台北市大安區新生南路三段30號／庭園",
+        "author": "高燦興",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "公務人力發展中心聯絡人-吳怡如/83691399",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343351,
+          25.0231428
+        ]
+      },
+      "properties": {
+        "art_id": "TP0026",
+        "art_name": "昇華",
+        "district": "大安區",
+        "location": "台北市大安區新生南路三段30號／中心廣場",
+        "author": "張子隆",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "公務人力發展中心聯絡人-吳怡如/83691399",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343351,
+          25.0231428
+        ]
+      },
+      "properties": {
+        "art_id": "TP0027",
+        "art_name": "宇宙",
+        "district": "大安區",
+        "location": "台北市大安區新生南路三段30號／室內大廳",
+        "author": "張子隆",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "公務人力發展中心聯絡人-吳怡如/83691399",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343351,
+          25.0231428
+        ]
+      },
+      "properties": {
+        "art_id": "TP0028",
+        "art_name": "昂",
+        "district": "大安區",
+        "location": "台北市大安區新生南路三段30號／溫州街與親水步道口",
+        "author": "陳正勳",
+        "material": "雕塑、街道傢俱",
+        "year_installed": "2002",
+        "manager": "公務人力發展中心聯絡人-吳怡如/83691399",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343351,
+          25.0231428
+        ]
+      },
+      "properties": {
+        "art_id": "TP0029",
+        "art_name": "生機",
+        "district": "大安區",
+        "location": "台北市大安區新生南路三段30號／戶外庭園",
+        "author": "黎志文",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "公務人力發展中心聯絡人-吳怡如/83691399",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343351,
+          25.0231428
+        ]
+      },
+      "properties": {
+        "art_id": "TP0030",
+        "art_name": "互動",
+        "district": "大安區",
+        "location": "台北市大安區新生南路三段30號／新生南路與辛亥路口",
+        "author": "黃銘哲",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "公務人力發展中心聯絡人-吳怡如/83691399",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5564285,
+          25.0338128
+        ]
+      },
+      "properties": {
+        "art_id": "TP0031",
+        "art_name": "大地",
+        "district": "大安區",
+        "location": "台北市大安區信義路4段335巷6號／北側入口花台",
+        "author": "張乃文",
+        "material": "雕塑、街道傢俱",
+        "year_installed": "2002",
+        "manager": "設置-台北市大安地政事務所,台北市政府工務局建築管理處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5564285,
+          25.0338128
+        ]
+      },
+      "properties": {
+        "art_id": "TP0032",
+        "art_name": "生命之歌",
+        "district": "大安區",
+        "location": "台北市大安區信義路4段335巷6號／一樓門廳",
+        "author": "張乃文",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "設置-台北市大安地政事務所,台北市政府工務局建築管理處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5553235,
+          25.0353295
+        ]
+      },
+      "properties": {
+        "art_id": "TP0034",
+        "art_name": "星空下的悠遊－摘星尋夢",
+        "district": "大安區",
+        "location": "台北市大安區延吉街246巷10號／一至三樓中央圓梯空間",
+        "author": "黃位政",
+        "material": "其他：玻璃彩繪燈箱",
+        "year_installed": "2002",
+        "manager": "設置-台北市政府社會局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5433278,
+          25.0319782
+        ]
+      },
+      "properties": {
+        "art_id": "TP0035",
+        "art_name": "青春",
+        "district": "大安區",
+        "location": "台北市大安區復興南路2段52號／停車場上方廣場",
+        "author": "楊柏林",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市立大安高級工業職業學校／總務主任黃忠民02-27022084",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5297597,
+          25.0262829
+        ]
+      },
+      "properties": {
+        "art_id": "TP0036",
+        "art_name": "蒸蒸日上",
+        "district": "大安區",
+        "location": "台北市大安區和平東路一段179號／國立編譯館右側通風口",
+        "author": "王秀杞",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "國立編譯館",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5297597,
+          25.0262829
+        ]
+      },
+      "properties": {
+        "art_id": "TP0037",
+        "art_name": "百年樹人－童趣",
+        "district": "大安區",
+        "location": "台北市大安區和平東路一段179號／國立編譯館入口左側",
+        "author": "王秀杞",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "國立編譯館",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5297597,
+          25.0262829
+        ]
+      },
+      "properties": {
+        "art_id": "TP0038",
+        "art_name": "百年樹人－好奇的小孩",
+        "district": "大安區",
+        "location": "台北市大安區和平東路一段179號／國立編譯館大廳左側",
+        "author": "王秀杞",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "國立編譯館",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5432965,
+          25.0301517
+        ]
+      },
+      "properties": {
+        "art_id": "TP0039",
+        "art_name": "海燕戲春",
+        "district": "大安區",
+        "location": "台北市大安區復興南路2段92號",
+        "author": "林勝正",
+        "material": "其他：玻璃鑲嵌",
+        "year_installed": "2004",
+        "manager": "台北市政府消防局：台北市信義區松仁路1號",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343206,
+          25.0163478
+        ]
+      },
+      "properties": {
+        "art_id": "TP0040",
+        "art_name": "民以食為天",
+        "district": "大安區",
+        "location": "台北市大安區羅斯福路4段1號／食品科技研究所加工實驗室，工廠入門處牆壁",
+        "author": "許慧娜",
+        "material": "壁畫浮雕",
+        "year_installed": "2004",
+        "manager": "台灣大學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343206,
+          25.0163478
+        ]
+      },
+      "properties": {
+        "art_id": "TP0041",
+        "art_name": "室內組：速度的藝術",
+        "district": "大安區",
+        "location": "台北市大安區羅斯福路4段1號 室內組:體育館入口大廳右側挑空處",
+        "author": "莊普",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "台灣大學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343206,
+          25.0163478
+        ]
+      },
+      "properties": {
+        "art_id": "TP0042",
+        "art_name": "室外組1：奧林匹克",
+        "district": "大安區",
+        "location": "台北市大安區羅斯福路4段1號／體育館東側廣場（面對凝態館）",
+        "author": "黎志文",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "台灣大學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343206,
+          25.0163478
+        ]
+      },
+      "properties": {
+        "art_id": "TP0043",
+        "art_name": "室外組2：捷",
+        "district": "大安區",
+        "location": "台北市大安區羅斯福路4段1號／體育館西側出入口",
+        "author": "林良材／觀想藝術有限公司",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "台灣大學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5484228,
+          25.0368626
+        ]
+      },
+      "properties": {
+        "art_id": "TP0044",
+        "art_name": "世界觀",
+        "district": "大安區",
+        "location": "台北市大安區敦化南路一段280號／外交部外交領事人員講習所挑空中庭",
+        "author": "王存武",
+        "material": "雕塑、其他：發光裝置",
+        "year_installed": "2005",
+        "manager": "外交部",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5258668,
+          25.0654999
+        ]
+      },
+      "properties": {
+        "art_id": "TP0047",
+        "art_name": "生",
+        "district": "中山區",
+        "location": "台北市中山區林森北路577號／大廳",
+        "author": "賴純純",
+        "material": "雕塑、垂吊造型",
+        "year_installed": "2003",
+        "manager": "臺灣銀行圓山分行",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5215657,
+          25.0548001
+        ]
+      },
+      "properties": {
+        "art_id": "TP0048",
+        "art_name": "會思考的鳥",
+        "district": "中山區",
+        "location": "台北市中山區中山北路2段44巷2號",
+        "author": "林勝正",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "台北市政府工務局新建工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5258668,
+          25.0654999
+        ]
+      },
+      "properties": {
+        "art_id": "TP0049",
+        "art_name": "和",
+        "district": "中山區",
+        "location": "台北市中山區林森北路577號／南側出入口半戶外空間",
+        "author": "賴純純",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺灣銀行圓山分行",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5607246,
+          25.0795886
+        ]
+      },
+      "properties": {
+        "art_id": "TP0050",
+        "art_name": "遊戲棋盤",
+        "district": "中山區",
+        "location": "臺北市中山區 樂群二路262號",
+        "author": "丹尼爾‧布罕",
+        "material": "其他：陶瓷鑲嵌",
+        "year_installed": "2006",
+        "manager": "臺北市立濱江國民中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5607246,
+          25.0795886
+        ]
+      },
+      "properties": {
+        "art_id": "TP0051",
+        "art_name": "向大師致敬",
+        "district": "中山區",
+        "location": "臺北市中山區 樂群二路262號",
+        "author": "張乃文",
+        "material": "工藝",
+        "year_installed": "2006",
+        "manager": "臺北市立濱江國中",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5607246,
+          25.0795886
+        ]
+      },
+      "properties": {
+        "art_id": "TP0052",
+        "art_name": "時空跑者",
+        "district": "中山區",
+        "location": "臺北市中山區 樂群二路262號",
+        "author": "林書民",
+        "material": "垂吊造型",
+        "year_installed": "2006",
+        "manager": "臺北市立濱江國中",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5124109,
+          25.0245712
+        ]
+      },
+      "properties": {
+        "art_id": "TP0061",
+        "art_name": "青天之翼",
+        "district": "中正區",
+        "location": "台北市中正區泉州街40號(中華路2段、泉州街口)",
+        "author": "郭清治",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市政府警察局 ",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5617842,
+          32.8659748
+        ]
+      },
+      "properties": {
+        "art_id": "TP0072",
+        "art_name": "白日夢",
+        "district": "中正區",
+        "location": "三元街131號／主要出入口旁",
+        "author": "簡俊成",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "台北市工務局新建工程處：台北市信義區市府路1號5樓南區",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5917207,
+          25.0705994
+        ]
+      },
+      "properties": {
+        "art_id": "TP0074",
+        "art_name": "風雲際會－鳥人",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路六段123巷34弄31號／入口廣場",
+        "author": "董振平",
+        "material": "雕塑",
+        "year_installed": "2001",
+        "manager": "台灣電力公司內湖民權變電所",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5917207,
+          25.0705994
+        ]
+      },
+      "properties": {
+        "art_id": "TP0075",
+        "art_name": "元素",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路六段123巷34弄31號／入口廣場",
+        "author": "董振平",
+        "material": "雕塑",
+        "year_installed": "2001",
+        "manager": "台灣電力公司內湖民權變電所",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5864044,
+          25.0786661
+        ]
+      },
+      "properties": {
+        "art_id": "TP0076",
+        "art_name": "成長與教育A、B、C",
+        "district": "內湖區",
+        "location": "台北市內湖區文德路200號／中庭花園、第二棟及第三棟校舍間",
+        "author": "高燦興",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "台北市立內湖高級中學 聯絡人-李主任碧月/27977035-309",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6158224,
+          25.0685897
+        ]
+      },
+      "properties": {
+        "art_id": "TP0077",
+        "art_name": "知識就是力量、一起去冒險",
+        "district": "內湖區",
+        "location": "台北市內湖區東湖路115號",
+        "author": "張乃文",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市政府停車管理處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0079",
+        "art_name": "童年",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-1",
+        "author": "吳宇棠",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0080",
+        "art_name": "紅花鄉情",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-2-1",
+        "author": "楊興生",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0081",
+        "art_name": "花賞",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-2-2",
+        "author": "吳昊",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0082",
+        "art_name": "關渡閒舟",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-2-3",
+        "author": "蘇憲法",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0083",
+        "art_name": "瓦日河畔",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-3-1",
+        "author": "連建興",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0084",
+        "art_name": "現象",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-3-2",
+        "author": "顧何忠",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0085",
+        "art_name": "銅盆裡的花",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-3-3",
+        "author": "王健碧",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0086",
+        "art_name": "有非洲木匙的靜物",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-3-4",
+        "author": "梁晉嘉",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0087",
+        "art_name": "行書中堂",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-4",
+        "author": "呂佛庭",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0088",
+        "art_name": "重彩禽鳥",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-5-1",
+        "author": "劉太希",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0089",
+        "art_name": "情意長",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-5-2",
+        "author": "黃光男",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0090",
+        "art_name": "奇峰出雲",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-5-3",
+        "author": "胡念祖",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0091",
+        "art_name": "行書",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／3F-6",
+        "author": "陳子和",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0092",
+        "art_name": "劇：尋河",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-1-1",
+        "author": "王萬春",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0093",
+        "art_name": "淡水人物",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-1-2",
+        "author": "鄭在東",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0094",
+        "art_name": "作品",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-1-3",
+        "author": "陳世明",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0095",
+        "art_name": "心境",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-2-1",
+        "author": "郭娟秋",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0096",
+        "art_name": "馬戲",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-2-3",
+        "author": "趙國宗",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0097",
+        "art_name": "形與色面",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-2-4",
+        "author": "曲德義",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0098",
+        "art_name": "91-2",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-2-5",
+        "author": "霍剛",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0099",
+        "art_name": "窗邊靜物",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-2-6",
+        "author": "潘朝森",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0100",
+        "art_name": "海岳書史",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-3",
+        "author": "王壯為",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0101",
+        "art_name": "書法四屏",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-4-1",
+        "author": "張昭翎",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0102",
+        "art_name": "寒林瑞雪",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-4-2",
+        "author": "許郭璜",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0103",
+        "art_name": "丘壑素練",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-4-3",
+        "author": "許郭璜",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0104",
+        "art_name": "武陵勝境",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／4F-4-5",
+        "author": "于彭",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0105",
+        "art_name": "四季（一組四件）",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-1-1",
+        "author": "廖修平",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0106",
+        "art_name": "大氣之31",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-1-2",
+        "author": "蕭勤",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0107",
+        "art_name": "建設#2",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-2-1",
+        "author": "陳庭詩",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0108",
+        "art_name": "兩人行",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-2-2",
+        "author": "林淵",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0109",
+        "art_name": "夏夜",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-2-3",
+        "author": "廖修平",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0110",
+        "art_name": "戲猴",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-2-4",
+        "author": "吳炫三",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0111",
+        "art_name": "遠山",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-2-5",
+        "author": "袁旃",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0112",
+        "art_name": "荷花",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-3-1",
+        "author": "胡公壽",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0113",
+        "art_name": "魚蝦圖",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-3-2",
+        "author": "丁衍庸",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0114",
+        "art_name": "書法條幅",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-3-3",
+        "author": "葉公超",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0115",
+        "art_name": "梅花",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-3-4",
+        "author": "何煜",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0116",
+        "art_name": "瘦金體楷書",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-3-5",
+        "author": "莊嚴",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0117",
+        "art_name": "老藤秋葉（紫藤）",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-3-6",
+        "author": "",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0118",
+        "art_name": "朱家山水中堂",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-3-7",
+        "author": "吳子深",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0119",
+        "art_name": "花與流水之歌",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／5F-4",
+        "author": "張金蓮",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0120",
+        "art_name": "松濤",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／2樓調解室一",
+        "author": "薛平南",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0121",
+        "art_name": "草書條幅",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／2樓調解室二",
+        "author": "黃群英",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5861456,
+          25.0687771
+        ]
+      },
+      "properties": {
+        "art_id": "TP0122",
+        "art_name": "隷書中堂",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段92號／2樓律師休息室",
+        "author": "鄭善禧",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5892608,
+          25.0696013
+        ]
+      },
+      "properties": {
+        "art_id": "TP0123",
+        "art_name": "「泰山嵩嶽」橫幅",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段93號／2樓記者室",
+        "author": "黃群英",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5862136,
+          25.0687821
+        ]
+      },
+      "properties": {
+        "art_id": "TP0124",
+        "art_name": "臨瘦金體",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段94號／3樓調解室一",
+        "author": "江正誠",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5862136,
+          25.0687821
+        ]
+      },
+      "properties": {
+        "art_id": "TP0125",
+        "art_name": "書法二屏之一",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段94號／3樓調解室一",
+        "author": "黃群英",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5862136,
+          25.0687821
+        ]
+      },
+      "properties": {
+        "art_id": "TP0126",
+        "art_name": "書法二屏之二",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段94號／3樓調解室一",
+        "author": "黃群英",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5862136,
+          25.0687821
+        ]
+      },
+      "properties": {
+        "art_id": "TP0127",
+        "art_name": "草書之一",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段94號／3樓調解室二",
+        "author": "黃群英",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5862136,
+          25.0687821
+        ]
+      },
+      "properties": {
+        "art_id": "TP0128",
+        "art_name": "草書之二",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段94號／3樓調解室二",
+        "author": "黃群英",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5862136,
+          25.0687821
+        ]
+      },
+      "properties": {
+        "art_id": "TP0129",
+        "art_name": "草書之三",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段94號／3樓調解室二",
+        "author": "黃群英",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.586464,
+          25.0688006
+        ]
+      },
+      "properties": {
+        "art_id": "TP0130",
+        "art_name": "無題7粉藍(2/2)",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段100號／3樓律師休息室一",
+        "author": "蕭勤",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.586464,
+          25.0688006
+        ]
+      },
+      "properties": {
+        "art_id": "TP0131",
+        "art_name": "無題8橙(2/2)",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段100號／3樓律師休息室一",
+        "author": "蕭勤",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.586464,
+          25.0688006
+        ]
+      },
+      "properties": {
+        "art_id": "TP0132",
+        "art_name": "乘溪河面",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段100號／3樓律師休息室一",
+        "author": "羅青",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.586464,
+          25.0688006
+        ]
+      },
+      "properties": {
+        "art_id": "TP0133",
+        "art_name": "「謹言修身」橫幅",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段100號／3樓律師休息室二",
+        "author": "黃群英",
+        "material": "其他：書法",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0134",
+        "art_name": "山水湖光：碧湖攬勝、基河夕照、大湖遠眺（三件）",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號",
+        "author": "吳達坤",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0135",
+        "art_name": "律法三天使",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號",
+        "author": "蔡根",
+        "material": "雕塑",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0136",
+        "art_name": "生活#1",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／2F-1",
+        "author": "廖修平",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5888082,
+          25.0697848
+        ]
+      },
+      "properties": {
+        "art_id": "TP0137",
+        "art_name": "雲海",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路6段91號／2F-2-2",
+        "author": "朱德群",
+        "material": "繪畫",
+        "year_installed": "2004",
+        "manager": "台灣士林地方法院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5842071,
+          25.0665177
+        ]
+      },
+      "properties": {
+        "art_id": "TP0138",
+        "art_name": "五張河床",
+        "district": "內湖區",
+        "location": "台北市內湖區行忠路178巷1號／民眾資源回收廣場(床五張相連，舖面350平方公分)",
+        "author": "觀想藝術有限公司",
+        "material": "雕塑、街道傢俱",
+        "year_installed": "2004",
+        "manager": "臺北市政府環境保護局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5842071,
+          25.0665177
+        ]
+      },
+      "properties": {
+        "art_id": "TP0139",
+        "art_name": "再造教育",
+        "district": "內湖區",
+        "location": "台北市內湖區行忠路178巷1號／資源回收教育館",
+        "author": "徐瑞憲／觀想藝術有限公司",
+        "material": "雕塑、垂吊造型、其他：機械裝置",
+        "year_installed": "2004",
+        "manager": "臺北市政府環境保護局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5736448,
+          25.0736572
+        ]
+      },
+      "properties": {
+        "art_id": "TP0140",
+        "art_name": "森洋",
+        "district": "內湖區",
+        "location": "台北市內湖區舊宗路二段213巷1號",
+        "author": "陳宏誠",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "台北市政府工務局衛生下水道工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5781741,
+          25.0669789
+        ]
+      },
+      "properties": {
+        "art_id": "TP0141",
+        "art_name": "浴火鳳凰",
+        "district": "內湖區",
+        "location": "台北市內湖區民權東路六段9號",
+        "author": "黃文慶",
+        "material": "雕塑、其他：彩色玻璃鑲嵌造型",
+        "year_installed": "2005",
+        "manager": "臺北市政府消防局 後勤科殷占坤 (T)2729-7668#6507 (F)2758-5513",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0142",
+        "art_name": "大地之心+意象之球",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／中央主軸區川堂",
+        "author": "李天鐸",
+        "material": "垂吊造型、地坪鑲嵌",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0143",
+        "art_name": "生命之環",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／中央主軸區二樓",
+        "author": "李天鐸",
+        "material": "雕塑、街道傢俱",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0144",
+        "art_name": "光之城市",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／中央主軸區中庭",
+        "author": "李天鐸",
+        "material": "雕塑、水景、紀念碑柱",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0145",
+        "art_name": "超越之道",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／中央主軸區操場",
+        "author": "李天鐸",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0146",
+        "art_name": "日出",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／活動中心牆面與廣場",
+        "author": "黎志文",
+        "material": "雕塑、壁畫鑲嵌",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0147",
+        "art_name": "鱗鱗波光－水波",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／南北中庭區牆面",
+        "author": "",
+        "material": "雕塑、其他：三稜鏡",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0148",
+        "art_name": "鱗鱗波光－魚型雕塑",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／南中庭二樓廣場",
+        "author": "",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0149",
+        "art_name": "鱗鱗波光－悠游的魚",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／活動中心二樓西側牆面",
+        "author": "",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0150",
+        "art_name": "鱗鱗波光－人、魚",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／活動中心三樓西側牆面",
+        "author": "",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0151",
+        "art_name": "鱗鱗波光－隧道",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／活動中心四樓西側牆面",
+        "author": "",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6118839,
+          25.0681363
+        ]
+      },
+      "properties": {
+        "art_id": "TP0152",
+        "art_name": "躍動種子",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段200號／校門等處",
+        "author": "台揚工程設計有限公司",
+        "material": "雕塑、其他：校徽及標誌",
+        "year_installed": "2005",
+        "manager": "臺北市南湖高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5778984,
+          25.0840983
+        ]
+      },
+      "properties": {
+        "art_id": "TP0153",
+        "art_name": "飛鳥（共7件）",
+        "district": "內湖區",
+        "location": "台北市內湖區環山路二段100號／校門口左側水池圍牆",
+        "author": "蒲浩明",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市立麗山高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5778984,
+          25.0840983
+        ]
+      },
+      "properties": {
+        "art_id": "TP0154",
+        "art_name": "小水滴的對談",
+        "district": "內湖區",
+        "location": "台北市內湖區環山路二段100號／行政大樓前之廣場",
+        "author": "蒲浩明",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市立麗山高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5778984,
+          25.0840983
+        ]
+      },
+      "properties": {
+        "art_id": "TP0155",
+        "art_name": "誕蛋（共5件）",
+        "district": "內湖區",
+        "location": "台北市內湖區環山路二段100號／教學大樓右側廣場",
+        "author": "蒲浩明",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市立麗山高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5778984,
+          25.0840983
+        ]
+      },
+      "properties": {
+        "art_id": "TP0156",
+        "art_name": "麗山之星",
+        "district": "內湖區",
+        "location": "台北市內湖區環山路二段100號／校園中央走道最後端點之方形草坪上",
+        "author": "蒲浩明",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市立麗山高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5778984,
+          25.0840983
+        ]
+      },
+      "properties": {
+        "art_id": "TP0157",
+        "art_name": "時光之旅",
+        "district": "內湖區",
+        "location": "台北市內湖區環山路二段100號／圖書館前中庭側牆禮堂外中庭的側牆",
+        "author": "蒲浩明",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市立麗山高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5656822,
+          25.0858665
+        ]
+      },
+      "properties": {
+        "art_id": "TP0158",
+        "art_name": "圓融",
+        "district": "內湖區",
+        "location": "台北市內湖區環山路一段27號",
+        "author": "東堉有限公司",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2006",
+        "manager": "臺北市立西湖國民中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6013187,
+          25.073124
+        ]
+      },
+      "properties": {
+        "art_id": "TP0159",
+        "art_name": "琦麗湖色 生生不息",
+        "district": "內湖區",
+        "location": "臺北市內湖區金湖路363巷8號",
+        "author": "",
+        "material": "壁畫鑲嵌、地坪鑲嵌、街道傢俱",
+        "year_installed": "2006",
+        "manager": "臺北市內湖區麗湖國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6013187,
+          25.073124
+        ]
+      },
+      "properties": {
+        "art_id": "TP0160",
+        "art_name": "希望城堡",
+        "district": "內湖區",
+        "location": "臺北市內湖區金湖路363巷8號",
+        "author": "鄧惠芬",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2006",
+        "manager": "臺北市內湖區麗湖國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6013187,
+          25.073124
+        ]
+      },
+      "properties": {
+        "art_id": "TP0161",
+        "art_name": "綠動:波光水影",
+        "district": "內湖區",
+        "location": "臺北市內湖區金湖路363巷8號",
+        "author": "胡棟民",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2006",
+        "manager": "臺北市內湖區麗湖國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6013187,
+          25.073124
+        ]
+      },
+      "properties": {
+        "art_id": "TP0162",
+        "art_name": "綠動:數字城堡",
+        "district": "內湖區",
+        "location": "臺北市內湖區金湖路363巷8號",
+        "author": "胡棟民",
+        "material": "雕塑",
+        "year_installed": "2006",
+        "manager": "臺北市內湖區麗湖國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5415471,
+          24.9901138
+        ]
+      },
+      "properties": {
+        "art_id": "TP0163",
+        "art_name": "書韻之美－筆韻",
+        "district": "文山區",
+        "location": "台北市景後街151號5至10樓／正門入口處前花台",
+        "author": "",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "台北市立圖書館",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.541946,
+          24.9899731
+        ]
+      },
+      "properties": {
+        "art_id": "TP0164",
+        "art_name": "書韻之美－懷素臨帖",
+        "district": "文山區",
+        "location": "台北市文山區景後街151號5至10樓／景新圖書館後方小型圓形廣場之牆面(共四片)",
+        "author": "",
+        "material": "其他：不鏽鋼陰刻版",
+        "year_installed": "2003",
+        "manager": "臺北市立圖書館景新分館",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5550069,
+          24.995732
+        ]
+      },
+      "properties": {
+        "art_id": "TP0165",
+        "art_name": "來自風中的芬芳",
+        "district": "文山區",
+        "location": "台北市文山區興隆路三段304巷145號",
+        "author": "陳昌銘",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市市場管理處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5676226,
+          24.9914605
+        ]
+      },
+      "properties": {
+        "art_id": "TP0166",
+        "art_name": "翱翔",
+        "district": "文山區",
+        "location": "台北市文山區秀明路一段169號／學校後棟二至六樓無障礙坡道牆壁",
+        "author": "李億勳",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2003",
+        "manager": "臺北市立文山特殊教育學校",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0167",
+        "art_name": "澤龜",
+        "district": "文山區",
+        "location": "台北市文山區新光路2段30號",
+        "author": "曹寶曰",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市立動物園環境組",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5411838,
+          24.9920845
+        ]
+      },
+      "properties": {
+        "art_id": "TP0168",
+        "art_name": "戲林",
+        "district": "文山區",
+        "location": "台北市文山區景文街32號",
+        "author": "張可昱",
+        "material": "雕塑",
+        "year_installed": "2004",
+        "manager": "台北市立社會教育館：台北市松山區八德路3段25號",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5548721,
+          24.9800022
+        ]
+      },
+      "properties": {
+        "art_id": "TP0169",
+        "art_name": "水龍之舞－重生",
+        "district": "文山區",
+        "location": "台北市文山區樟新街2號／建築物正面右側(靠木新路)1至4樓外牆",
+        "author": "鄭明賢",
+        "material": "雕塑",
+        "year_installed": "2004",
+        "manager": "臺北市政府消防局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0170",
+        "art_name": "繽紛的旅程－ 風‧迎風精靈",
+        "district": "文山區",
+        "location": "台北市文山區新光路2段30號／圓柱入口意象",
+        "author": "陳美華",
+        "material": "雕塑、壁畫鑲嵌",
+        "year_installed": "2004",
+        "manager": "台北市立動物園",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0171",
+        "art_name": "繽紛的旅程－ 水‧生命之源（三枝）",
+        "district": "文山區",
+        "location": "台北市文山區新光路2段30號／生態水池廊道",
+        "author": "陳美華",
+        "material": "雕塑",
+        "year_installed": "2004",
+        "manager": "台北市立動物園",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0172",
+        "art_name": "繽紛的旅程－ 光‧迎光展翅",
+        "district": "文山區",
+        "location": "台北市文山區新光路2段30號／挑高樓梯間",
+        "author": "陳美華",
+        "material": "垂吊造型",
+        "year_installed": "2004",
+        "manager": "台北市立動物園",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5481885,
+          24.9960885
+        ]
+      },
+      "properties": {
+        "art_id": "TP0173",
+        "art_name": "飛翔之心",
+        "district": "文山區",
+        "location": "台北市文山區景華街150巷21號／活動中心1樓大門口",
+        "author": "陳嶺碩Cheney、王仁宏",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市景興國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5752745,
+          25.0003108
+        ]
+      },
+      "properties": {
+        "art_id": "TP0174",
+        "art_name": "內在的火焰",
+        "district": "文山區",
+        "location": "台北市文山區木柵路四段159巷16號",
+        "author": "陳慧嶠",
+        "material": "雕塑、其他：發光裝置",
+        "year_installed": "2005",
+        "manager": "臺北市政府環境保護局木柵垃圾焚化廠",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5696981,
+          24.9899716
+        ]
+      },
+      "properties": {
+        "art_id": "TP0175",
+        "art_name": "胸有成竹",
+        "district": "文山區",
+        "location": "台北市文山區木柵路3段189號／服務區",
+        "author": "黃國書",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市文山區公所",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5696981,
+          24.9899716
+        ]
+      },
+      "properties": {
+        "art_id": "TP0176",
+        "art_name": "勢如破竹",
+        "district": "文山區",
+        "location": "台北市文山區木柵路3段189號／服務區",
+        "author": "黃國書",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市文山區公所",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5676226,
+          24.9914605
+        ]
+      },
+      "properties": {
+        "art_id": "TP0177",
+        "art_name": "會跳舞的樹",
+        "district": "文山區",
+        "location": "台北市文山區秀明路一段169號",
+        "author": "蔡政維",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市立文山特殊教育學校",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4991639,
+          25.1086531
+        ]
+      },
+      "properties": {
+        "art_id": "TP0178",
+        "art_name": "彩虹的故鄉",
+        "district": "北投區",
+        "location": "台北市北投區洲美街271號 ",
+        "author": "林玉慎",
+        "material": "",
+        "year_installed": "2000",
+        "manager": "臺北市政府環保局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4693725,
+          25.1196425
+        ]
+      },
+      "properties": {
+        "art_id": "TP0179",
+        "art_name": "臥虎藏龍",
+        "district": "北投區",
+        "location": "台北市北投區關渡路55號／人行步道接木棧橋頭旁",
+        "author": "陳正勳",
+        "material": "雕塑",
+        "year_installed": "2001",
+        "manager": "申請-臺北市政府建設局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4693725,
+          25.1196425
+        ]
+      },
+      "properties": {
+        "art_id": "TP0180",
+        "art_name": "萬鳥歸巢",
+        "district": "北投區",
+        "location": "台北市北投區關渡路55號 ／自然解說中心二樓屋簷",
+        "author": "陳正勳",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "申請-臺北市政府建設局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4693725,
+          25.1196425
+        ]
+      },
+      "properties": {
+        "art_id": "TP0181",
+        "art_name": "生生不息",
+        "district": "北投區",
+        "location": "台北市北投區關渡路55號 ／野溪生態區碎石步道側街木棧橋頭",
+        "author": "陳正勳",
+        "material": "雕塑",
+        "year_installed": "2001",
+        "manager": "申請-臺北市政府建設局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5213606,
+          25.1174963
+        ]
+      },
+      "properties": {
+        "art_id": "TP0182",
+        "art_name": "愛心、活力、赤子情",
+        "district": "北投區",
+        "location": "台北市北投區明德路365號／門口廣場",
+        "author": "陳麗杏",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "設置-國立台北護理學院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.467901,
+          25.1283543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0183",
+        "art_name": "鎮",
+        "district": "北投區",
+        "location": "台北市北投區中央北路四段532號（資料來源為91年文建會出版公共藝術年鑑）",
+        "author": "林正仁",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "弘盛開發股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.467901,
+          25.1283543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0184",
+        "art_name": "月亮請坐",
+        "district": "北投區",
+        "location": "台北市北投區中央北路四段532號（資料來源為91年文建會出版公共藝術年鑑）／建築東側",
+        "author": "徐秀美",
+        "material": "雕塑、街道傢俱",
+        "year_installed": "2002",
+        "manager": "弘盛開發股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5213606,
+          25.1174963
+        ]
+      },
+      "properties": {
+        "art_id": "TP0185",
+        "art_name": "逆水行舟",
+        "district": "北投區",
+        "location": "台北市北投區明德路365號",
+        "author": "姜憲明",
+        "material": "壁畫鑲嵌、壁畫浮雕",
+        "year_installed": "2003",
+        "manager": "設置-國立台北護理學院 執行-國立台北護理學院總務處 聯絡人-蘇敬源/28227101-2550",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5213606,
+          25.1174963
+        ]
+      },
+      "properties": {
+        "art_id": "TP0186",
+        "art_name": "開卷有益",
+        "district": "北投區",
+        "location": "台北市北投區明德路365號",
+        "author": "姜憲明",
+        "material": "雕塑、壁畫鑲嵌",
+        "year_installed": "2003",
+        "manager": "設置-國立台北護理學院 執行-國立台北護理學院總務處 聯絡人-蘇敬源/28227101-2550",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5111839,
+          25.138375
+        ]
+      },
+      "properties": {
+        "art_id": "TP0187",
+        "art_name": "大地狩獵",
+        "district": "北投區",
+        "location": "台北市北投區中山路3-1號／建築物東側亂石砌頁岩表面之擋土牆上 ",
+        "author": "張明風",
+        "material": "雕塑、壁畫鑲嵌",
+        "year_installed": "2003",
+        "manager": "設置-臺北市政府原住民事務委員會 ",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5111839,
+          25.138375
+        ]
+      },
+      "properties": {
+        "art_id": "TP0188",
+        "art_name": "族群拼織",
+        "district": "北投區",
+        "location": "台北市北投區中山路3-1號／以各族織布圖騰交錯於本館入口地坪",
+        "author": "張明風",
+        "material": "地坪鑲嵌",
+        "year_installed": "2003",
+        "manager": "設置-臺北市政府原住民事務委員會                         ",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5072402,
+          25.1277485
+        ]
+      },
+      "properties": {
+        "art_id": "TP0189",
+        "art_name": "反思",
+        "district": "北投區",
+        "location": "台北市北投區公館路198號／前廣場",
+        "author": "張光秦",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市北投區公所",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466844,
+          25.1268338
+        ]
+      },
+      "properties": {
+        "art_id": "TP0191",
+        "art_name": "關山渡水‧旭日曉月－飛行",
+        "district": "北投區",
+        "location": "台北市北投區中央北路四段581號／活動中心牌樓正前方老榕樹左側(摘星樓一樓)",
+        "author": "董振平",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市北投區關渡國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466844,
+          25.1268338
+        ]
+      },
+      "properties": {
+        "art_id": "TP0192",
+        "art_name": "摘星",
+        "district": "北投區",
+        "location": "台北市北投區中央北路四段581號／牌樓左側上方三角窗內(摘星樓二樓)",
+        "author": "董振平",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市北投區關渡國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466844,
+          25.1268338
+        ]
+      },
+      "properties": {
+        "art_id": "TP0193",
+        "art_name": "翱翔",
+        "district": "北投區",
+        "location": "台北市北投區中央北路四段581號／牌樓前後及頂端、活動中心面對中央北路牆面及正門意像",
+        "author": "董振平",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市北投區關渡國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466844,
+          25.1268338
+        ]
+      },
+      "properties": {
+        "art_id": "TP0194",
+        "art_name": "旭日",
+        "district": "北投區",
+        "location": "台北市北投區中央北路四段581號／牌樓之頂層右面上方(摘星樓二樓頂)",
+        "author": "董振平",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市北投區關渡國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466844,
+          25.1268338
+        ]
+      },
+      "properties": {
+        "art_id": "TP0195",
+        "art_name": "初始",
+        "district": "北投區",
+        "location": "台北市北投區中央北路四段581號／牌樓、橫樑需求部分",
+        "author": "董振平",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市北投區關渡國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466844,
+          25.1268338
+        ]
+      },
+      "properties": {
+        "art_id": "TP0197",
+        "art_name": "天成",
+        "district": "北投區",
+        "location": "台北市北投區中央北路四段581號／活動中心二樓走廊挑空處(摘星樓二樓)",
+        "author": "董振平",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市北投區關渡國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509078,
+          25.1217706
+        ]
+      },
+      "properties": {
+        "art_id": "TP0198",
+        "art_name": "永恆的樂章",
+        "district": "北投區",
+        "location": "台北市北投區致遠三路158號／建物立面東西兩側正面花台上方之外牆",
+        "author": "",
+        "material": "雕塑",
+        "year_installed": "2004",
+        "manager": "台北市政府工務局新建工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4991639,
+          25.1086531
+        ]
+      },
+      "properties": {
+        "art_id": "TP0199",
+        "art_name": "火焰之舞",
+        "district": "北投區",
+        "location": "台北市北投區洲美街271號／台北市政府環境保護局北投垃圾焚化廠回饋設施公園中庭廣場",
+        "author": "",
+        "material": "雕塑",
+        "year_installed": "2004",
+        "manager": "臺北市政府環境保護局北投垃圾焚化廠",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4971404,
+          25.1373737
+        ]
+      },
+      "properties": {
+        "art_id": "TP0200",
+        "art_name": "向量",
+        "district": "北投區",
+        "location": "台北市北投區文化三路3號",
+        "author": "林政權／北院建築師事務所",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "台北市北投區公所：台北市北投區新市街30號4樓",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096667,
+          25.1162832
+        ]
+      },
+      "properties": {
+        "art_id": "TP0201",
+        "art_name": "手舞足蹈",
+        "district": "北投區",
+        "location": "台北市北投區石牌路一段39巷100號／榕樹廣場",
+        "author": "李哲凰",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "臺北市立體育處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096667,
+          25.1162832
+        ]
+      },
+      "properties": {
+        "art_id": "TP0202",
+        "art_name": "棋逢敵手",
+        "district": "北投區",
+        "location": "台北市北投區石牌路一段39巷100號／一、二樓層樓梯底部及牆面",
+        "author": "林仁信",
+        "material": "雕塑",
+        "year_installed": "2005",
+        "manager": "設置機關:臺北市立體育處 代辦機關:臺北市立師範學院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5610614,
+          25.0486863
+        ]
+      },
+      "properties": {
+        "art_id": "TP0208",
+        "art_name": "展翅高飛－飛翔人形",
+        "district": "松山區",
+        "location": "台北市松山區八德路4段101號／圓心中庭",
+        "author": "",
+        "material": "雕塑、垂吊造型",
+        "year_installed": "2002",
+        "manager": "臺北市立中崙高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5610614,
+          25.0486863
+        ]
+      },
+      "properties": {
+        "art_id": "TP0209",
+        "art_name": "展翅高飛－彩繪百鳥",
+        "district": "松山區",
+        "location": "台北市松山區八德路4段101號／圓心中庭",
+        "author": "",
+        "material": "其他：玻璃彩繪",
+        "year_installed": "2002",
+        "manager": "臺北市立中崙高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5610614,
+          25.0486863
+        ]
+      },
+      "properties": {
+        "art_id": "TP0210",
+        "art_name": "展翅高飛－大台北地形圖",
+        "district": "松山區",
+        "location": "台北市松山區八德路4段101號／圓心中庭",
+        "author": "",
+        "material": "地坪鑲嵌",
+        "year_installed": "2002",
+        "manager": "臺北市立中崙高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5610614,
+          25.0486863
+        ]
+      },
+      "properties": {
+        "art_id": "TP0211",
+        "art_name": "樹的組曲－快樂成長",
+        "district": "松山區",
+        "location": "台北市松山區八德路4段101號／中崙廣場左側旋轉樓梯旁",
+        "author": "趙國宗",
+        "material": "壁畫彩繪、壁畫浮雕",
+        "year_installed": "2002",
+        "manager": "臺北市立中崙高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5610614,
+          25.0486863
+        ]
+      },
+      "properties": {
+        "art_id": "TP0212",
+        "art_name": "樹的組曲－培育意象（6件）",
+        "district": "松山區",
+        "location": "台北市松山區八德路4段101號／校門廣場右側",
+        "author": "黃承令",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "臺北市立中崙高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5528895,
+          25.0614846
+        ]
+      },
+      "properties": {
+        "art_id": "TP0214",
+        "art_name": "圓融",
+        "district": "松山區",
+        "location": "台北市民權東路四段200號／游泳池外牆兩側",
+        "author": "張清淵",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2005",
+        "manager": "台北市民權國民小學 謝發銓主任 (T)2765-2327#31 (F)2766-2391",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1702621,
+          24.9586155
+        ]
+      },
+      "properties": {
+        "art_id": "TP0217",
+        "art_name": "城市候鳥",
+        "district": "信義區",
+        "location": "松仁路2號地下室",
+        "author": "蔡政維",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "查無資料",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5711419,
+          25.03642
+        ]
+      },
+      "properties": {
+        "art_id": "TP0218",
+        "art_name": "海闊天空",
+        "district": "信義區",
+        "location": "台北市信義區松仁路95巷20號／活動中心牆面",
+        "author": "郭大維",
+        "material": "其他：彩繪玻璃貼於壁面",
+        "year_installed": "2003",
+        "manager": "臺北市信義區博愛國民小學 聯絡人-林文亮/0227296311",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6072108,
+          25.0563356
+        ]
+      },
+      "properties": {
+        "art_id": "TP0220",
+        "art_name": "後浪、前浪",
+        "district": "南港區",
+        "location": "台北市南港區興中路 29 號／南港高級工業職業學校舊集合場",
+        "author": "李國嘉",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2001",
+        "manager": "臺北市立南港高級工業職業學校",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6091658,
+          25.0586704
+        ]
+      },
+      "properties": {
+        "art_id": "TP0221",
+        "art_name": "「孕育化成」組曲－育成之柱",
+        "district": "南港區",
+        "location": "台北市南港區重陽路366號／圍牆東北區",
+        "author": "李光裕",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "主辦-臺北市政府教育局 承辦-臺北市育成高級中學籌備處 聯絡人-賴興雷/26530475",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6091658,
+          25.0586704
+        ]
+      },
+      "properties": {
+        "art_id": "TP0222",
+        "art_name": "「孕育化成」組曲－允文",
+        "district": "南港區",
+        "location": "台北市南港區重陽路366號／前川堂區壁面",
+        "author": "李光裕",
+        "material": "壁畫浮雕",
+        "year_installed": "2003",
+        "manager": "主辦-臺北市政府教育局 承辦-臺北市育成高級中學籌備處 聯絡人-賴興雷/26530475",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6091658,
+          25.0586704
+        ]
+      },
+      "properties": {
+        "art_id": "TP0223",
+        "art_name": "「孕育化成」組曲－允武",
+        "district": "南港區",
+        "location": "台北市南港區重陽路366號／前川堂區壁面",
+        "author": "李光裕",
+        "material": "壁畫浮雕",
+        "year_installed": "2003",
+        "manager": "主辦-臺北市政府教育局 承辦-臺北市育成高級中學籌備處 聯絡人-賴興雷/26530475",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6091658,
+          25.0586704
+        ]
+      },
+      "properties": {
+        "art_id": "TP0224",
+        "art_name": "「孕育化成」組曲－育成共榮",
+        "district": "南港區",
+        "location": "台北市南港區重陽路366號／校門口",
+        "author": "李光裕",
+        "material": "壁畫浮雕",
+        "year_installed": "2003",
+        "manager": "主辦-臺北市政府教育局 承辦-臺北市育成高級中學籌備處 聯絡人-賴興雷/26530475",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6072108,
+          25.0563356
+        ]
+      },
+      "properties": {
+        "art_id": "TP0225",
+        "art_name": "每天心中開出許多花",
+        "district": "南港區",
+        "location": "台北市南港區興中路 29 號／圖資大樓走廊",
+        "author": "李國嘉",
+        "material": "垂吊造型、其他：發光裝置",
+        "year_installed": "2003",
+        "manager": "臺北市南港高級工業職業學校／許秀琴組長02-27825432#1505",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8646559,
+          40.82634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0226",
+        "art_name": "思想的轉動 ",
+        "district": "南港區",
+        "location": "臺北市南港區園區街3號／南港軟體科學園區中庭廣場",
+        "author": "湯尼‧克雷格",
+        "material": "雕塑",
+        "year_installed": "2004",
+        "manager": "南港軟體工業園區二期管理委員會",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8646559,
+          40.82634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0227",
+        "art_name": "彩虹的誕生 ",
+        "district": "南港區",
+        "location": "臺北市南港區園區街3號／南港軟體科學園區中庭廣場",
+        "author": "",
+        "material": "雕塑、水景",
+        "year_installed": "2004",
+        "manager": "南港軟體工業園區二期管理委員會",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8646559,
+          40.82634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0228",
+        "art_name": "門 ",
+        "district": "南港區",
+        "location": "臺北市南港區園區街3號／南港軟體科學園區中庭廣場",
+        "author": "瑪塔‧潘",
+        "material": "雕塑",
+        "year_installed": "2004",
+        "manager": "南港軟體工業園區二期管理委員會",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8646559,
+          40.82634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0229",
+        "art_name": "列柱噴泉 ",
+        "district": "南港區",
+        "location": "臺北市南港區園區街3號／南港軟體科學園區中庭廣場",
+        "author": "",
+        "material": "雕塑、水景",
+        "year_installed": "2004",
+        "manager": "南港軟體工業園區二期管理委員會",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8646559,
+          40.82634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0230",
+        "art_name": "有逗點、句點的風景",
+        "district": "南港區",
+        "location": "臺北市南港區園區街3號／南港軟體科學園區中庭廣場",
+        "author": "莊普",
+        "material": "",
+        "year_installed": "2004",
+        "manager": "南港軟體工業園區二期管理委員會",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8646559,
+          40.82634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0231",
+        "art_name": "時間的移轉",
+        "district": "南港區",
+        "location": "臺北市南港區園區街3號／南港軟體工業園區二期F、H棟入口大門",
+        "author": "袁廣鳴",
+        "material": "其他：光柵片門片",
+        "year_installed": "2004",
+        "manager": "南港軟體工業園區二期管理委員會",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8646559,
+          40.82634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0232",
+        "art_name": "演奏一曲",
+        "district": "南港區",
+        "location": "臺北市南港區園區街3號／南港軟體科學園區H棟大廳牆面",
+        "author": "",
+        "material": "其他：機械平面裝置",
+        "year_installed": "2004",
+        "manager": "南港軟體工業園區二期管理委員會",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8646559,
+          40.82634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0233",
+        "art_name": "光體",
+        "district": "南港區",
+        "location": "臺北市南港區園區街3號／南港軟體科學園區F棟大廳牆面",
+        "author": "陶亞倫",
+        "material": "其他：顯微鏡及多媒體裝置",
+        "year_installed": "2004",
+        "manager": "南港軟體工業園區二期管理委員會",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8646559,
+          40.82634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0234",
+        "art_name": "化境",
+        "district": "南港區",
+        "location": "臺北市南港區園區街3號／南港軟體科學園區H棟二樓",
+        "author": "林書民",
+        "material": "其他：雷射立體影像",
+        "year_installed": "2004",
+        "manager": "南港軟體工業園區二期管理委員會",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4927038,
+          25.0276047
+        ]
+      },
+      "properties": {
+        "art_id": "TP0235",
+        "art_name": "雙園筆竹風情",
+        "district": "萬華區",
+        "location": "臺北市萬華區興義街2號／校門口右側人行道",
+        "author": "王秀杞",
+        "material": "雕塑",
+        "year_installed": "2002",
+        "manager": "雙園國民中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4927038,
+          25.0276047
+        ]
+      },
+      "properties": {
+        "art_id": "TP0236",
+        "art_name": "舞",
+        "district": "萬華區",
+        "location": "臺北市萬華區興義街2號／綜合大樓南面牆",
+        "author": "黃文慶",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2002",
+        "manager": "雙園國民中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5088936,
+          25.0463215
+        ]
+      },
+      "properties": {
+        "art_id": "TP0237",
+        "art_name": "福星高照",
+        "district": "萬華區",
+        "location": "臺北市萬華區中華路一段66號／東側校門口地坪",
+        "author": "李昀珊",
+        "material": "雕塑",
+        "year_installed": "2003",
+        "manager": "臺北市萬華區福星國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5088936,
+          25.0463215
+        ]
+      },
+      "properties": {
+        "art_id": "TP0238",
+        "art_name": "琴韻悠颺(一件加銅音符五座)",
+        "district": "萬華區",
+        "location": "臺北市萬華區中華路一段66號／都市櫥窗前行道樹下",
+        "author": "李昀珊",
+        "material": "雕塑、街道傢俱",
+        "year_installed": "2003",
+        "manager": "臺北市萬華區福星國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4987126,
+          25.031091
+        ]
+      },
+      "properties": {
+        "art_id": "TP0239",
+        "art_name": "如魚得水 立體魚拓畫",
+        "district": "萬華區",
+        "location": "臺北市萬華區莒光路315號",
+        "author": "周國龍",
+        "material": "壁畫彩繪",
+        "year_installed": "2004",
+        "manager": "臺北市萬華區雙園國小",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5102928,
+          25.0722793
+        ]
+      },
+      "properties": {
+        "art_id": "TP0243",
+        "art_name": "一種接觸的美學 ",
+        "district": "大同區",
+        "location": "台北市大同區酒泉街235號／入口廣場正立牆面",
+        "author": "顏名宏",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2006",
+        "manager": "臺北市政府工務局衛生下水道工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5168706,
+          25.0716203
+        ]
+      },
+      "properties": {
+        "art_id": "TP0244",
+        "art_name": "聽見水聲",
+        "district": "大同區",
+        "location": "台北市酒泉街235號／附設休閒運動公園之服務台",
+        "author": "劉國滄",
+        "material": "雕塑、其他：管線",
+        "year_installed": "2006",
+        "manager": "臺北市政府工務局衛生下水道工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5168706,
+          25.0716203
+        ]
+      },
+      "properties": {
+        "art_id": "TP0245",
+        "art_name": "泳池的聯想",
+        "district": "大同區",
+        "location": "台北市酒泉街235號／廠外大廳入口",
+        "author": "袁廣鳴",
+        "material": "其他：影像裝置",
+        "year_installed": "2006",
+        "manager": "臺北市政府工務局衛生下水道工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5102928,
+          25.0722793
+        ]
+      },
+      "properties": {
+        "art_id": "TP0246",
+        "art_name": "大地重現",
+        "district": "大同區",
+        "location": "台北市大同區酒泉街235號／西端天橋跨越環河北路",
+        "author": "",
+        "material": "其他：人行步道",
+        "year_installed": "2006",
+        "manager": "設置-臺北市政府工務局衛生下水道工程處 執行-臺北市政府文化局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5263234,
+          25.0320077
+        ]
+      },
+      "properties": {
+        "art_id": "TP0247",
+        "art_name": "第一主題區:訊息的殿堂",
+        "district": "大安區",
+        "location": "臺北市大安區愛國東路35號",
+        "author": "郭清治",
+        "material": "雕塑",
+        "year_installed": "2006",
+        "manager": "中華電信行動通信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5263234,
+          25.0320077
+        ]
+      },
+      "properties": {
+        "art_id": "TP0248",
+        "art_name": "第二主題區:行通蛟龍",
+        "district": "大安區",
+        "location": "臺北市大安區愛國東路35號",
+        "author": "林文德",
+        "material": "雕塑",
+        "year_installed": "2006",
+        "manager": "中華電信行動通信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5263234,
+          25.0320077
+        ]
+      },
+      "properties": {
+        "art_id": "TP0249",
+        "art_name": "第三主題區:心橋",
+        "district": "大安區",
+        "location": "臺北市大安區愛國東路35號",
+        "author": "林正仁",
+        "material": "雕塑",
+        "year_installed": "2006",
+        "manager": "中華電信行動通信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5616921,
+          25.0773038
+        ]
+      },
+      "properties": {
+        "art_id": "TP0250",
+        "art_name": "水岸上的童話王國 1.小水滴",
+        "district": "中山區",
+        "location": "台北市中山區樂群二路266巷99號",
+        "author": "張永村",
+        "material": "雕塑",
+        "year_installed": "2006",
+        "manager": "台北市中山區濱江國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5616921,
+          25.0773038
+        ]
+      },
+      "properties": {
+        "art_id": "TP0251",
+        "art_name": "水岸上的童話王國 2.水波遊戲場",
+        "district": "中山區",
+        "location": "台北市中山區樂群二路266巷99號",
+        "author": "張永村",
+        "material": "雕塑",
+        "year_installed": "2006",
+        "manager": "台北市中山區濱江國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5616921,
+          25.0773038
+        ]
+      },
+      "properties": {
+        "art_id": "TP0252",
+        "art_name": "水岸上的童話王國 3.種子遊戲場",
+        "district": "中山區",
+        "location": "台北市中山區樂群二路266巷99號",
+        "author": "張永村",
+        "material": "雕塑",
+        "year_installed": "2006",
+        "manager": "台北市中山區濱江國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5607246,
+          25.0795886
+        ]
+      },
+      "properties": {
+        "art_id": "TP0254",
+        "art_name": "種籽",
+        "district": "中山區",
+        "location": "臺北市中山區樂群二路262號",
+        "author": "陳健",
+        "material": "",
+        "year_installed": "2006",
+        "manager": "臺北市立濱江國民中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6166903,
+          25.0420109
+        ]
+      },
+      "properties": {
+        "art_id": "TP0255",
+        "art_name": "生命的樂章",
+        "district": "南港區",
+        "location": "台北市南港區研究院路二段128號",
+        "author": "郭清治",
+        "material": "雕塑",
+        "year_installed": "2006",
+        "manager": "中央研究院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639874,
+          25.0339543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0256",
+        "art_name": "LOVE 台北之愛 台灣之愛",
+        "district": "信義區",
+        "location": "台北市信義區市府路45號（大樓前廣場）",
+        "author": "羅伯特．印第安那",
+        "material": "雕塑",
+        "year_installed": "2008",
+        "manager": "台北金融大樓股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0257",
+        "art_name": "話題",
+        "district": "文山區",
+        "location": "臺北市文山區新光路2段30號（鳥園廣場）",
+        "author": "郭弘坤",
+        "material": "街道傢俱",
+        "year_installed": "2008",
+        "manager": "臺北市立動物園",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0258",
+        "art_name": "渾然天成",
+        "district": "文山區",
+        "location": "臺北市文山區116新光路二段30號（動物園入口內廣場）",
+        "author": "",
+        "material": "地坪鑲嵌",
+        "year_installed": "2008",
+        "manager": "臺北市立動物園",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0259",
+        "art_name": "現代諾亞方舟",
+        "district": "文山區",
+        "location": "臺北市文山區116新光路二段30號（兒童動物園區前）",
+        "author": "",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2008",
+        "manager": "臺北市立動物園",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5191636,
+          25.1191344
+        ]
+      },
+      "properties": {
+        "art_id": "TP0260",
+        "art_name": "約拿的天空",
+        "district": "北投區",
+        "location": "台北市北投區石牌路二段201號（榮民總醫院西南側門診區、地下停車場與中正樓間之人行主要通路）",
+        "author": "劉世芬",
+        "material": "地坪鑲嵌",
+        "year_installed": "2008",
+        "manager": "行政院國軍退除役官兵輔導委員會台北榮民總醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5063009,
+          25.1363458
+        ]
+      },
+      "properties": {
+        "art_id": "TP0262",
+        "art_name": "藏寶石",
+        "district": "北投區",
+        "location": "臺北市北投區光明路251號",
+        "author": "李岳庚",
+        "material": "雕塑",
+        "year_installed": "2008",
+        "manager": "臺北市立圖書館",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639874,
+          25.0339543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0265",
+        "art_name": "NUMBERS 數字",
+        "district": "信義區",
+        "location": "台北市信義區市府路45號（大廳）",
+        "author": "羅伯特．印第安那",
+        "material": "雕塑",
+        "year_installed": "2008",
+        "manager": "台北金融大樓股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639874,
+          25.0339543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0266",
+        "art_name": "星月交輝",
+        "district": "信義區",
+        "location": "台北市信義區市府路45號（松廉路上人行道）",
+        "author": "",
+        "material": "水景",
+        "year_installed": "2008",
+        "manager": "台北金融大樓股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639874,
+          25.0339543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0267",
+        "art_name": "龍躍雲端 ",
+        "district": "信義區",
+        "location": "台北市信義區市府路45號（松廉路上人行道）",
+        "author": "",
+        "material": "水景",
+        "year_installed": "2008",
+        "manager": "台北金融大樓股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639874,
+          25.0339543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0268",
+        "art_name": "都市交響曲",
+        "district": "信義區",
+        "location": "台北市信義區市府路45號（信義線捷運出口區）",
+        "author": "吉爾‧瓦塵",
+        "material": "雕塑",
+        "year_installed": "2008",
+        "manager": "台北金融大樓股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639874,
+          25.0339543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0269",
+        "art_name": "陰與陽的對話（移置保存）",
+        "district": "信義區",
+        "location": "台北市信義區市府路45號（大廳）",
+        "author": "蕾蓓卡‧洪",
+        "material": "雕塑",
+        "year_installed": "2008",
+        "manager": "",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639874,
+          25.0339543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0270",
+        "art_name": "印信 Seal",
+        "district": "信義區",
+        "location": "台北市信義區市府路45號（大廳）",
+        "author": "張義",
+        "material": "地坪鑲嵌",
+        "year_installed": "2008",
+        "manager": "台北金融大樓股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639874,
+          25.0339543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0271",
+        "art_name": "天地之間",
+        "district": "信義區",
+        "location": "台北市信義區市府路45號（靠世貿二館之人行道上）",
+        "author": "亞利安 莫斯可維奇",
+        "material": "街道傢俱",
+        "year_installed": "2008",
+        "manager": "台北金融大樓股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639874,
+          25.0339543
+        ]
+      },
+      "properties": {
+        "art_id": "TP0272",
+        "art_name": "世界之環",
+        "district": "信義區",
+        "location": "台北市信義區市府路45號（4F都會廣場）",
+        "author": "莊普",
+        "material": "地坪鑲嵌",
+        "year_installed": "2008",
+        "manager": "台北金融大樓股份有限公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5107582,
+          25.0822554
+        ]
+      },
+      "properties": {
+        "art_id": "TP0274",
+        "art_name": "知識分享",
+        "district": "士林區",
+        "location": "台北市士林區延平北路5段136巷1號(大門右側牆)",
+        "author": "",
+        "material": "雕塑、壁畫鑲嵌、壁畫浮雕",
+        "year_installed": "2008",
+        "manager": "臺北市立圖書館",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5107582,
+          25.0822554
+        ]
+      },
+      "properties": {
+        "art_id": "TP0275",
+        "art_name": "福聚",
+        "district": "士林區",
+        "location": "台北市士林區延平北路5段136巷1號(大門左側)",
+        "author": "",
+        "material": "雕塑",
+        "year_installed": "2008",
+        "manager": "臺北市立圖書館",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5107582,
+          25.0822554
+        ]
+      },
+      "properties": {
+        "art_id": "TP0276",
+        "art_name": "串流",
+        "district": "士林區",
+        "location": "台北市士林區延平北路5段136巷1號(大廳正面)",
+        "author": "",
+        "material": "雕塑、壁畫鑲嵌、壁畫浮雕",
+        "year_installed": "2008",
+        "manager": "臺北市立圖書館",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5121319,
+          25.0722073
+        ]
+      },
+      "properties": {
+        "art_id": "TP0277",
+        "art_name": "引導一段無法到達的旅程─昨日重現",
+        "district": "大同區",
+        "location": "台北市大同區酒泉街191號前人行道",
+        "author": "吳鼎武‧瓦歷斯",
+        "material": "地坪鑲嵌",
+        "year_installed": "2006",
+        "manager": "臺北市政府工務局新建工程處　",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5135976,
+          25.0746987
+        ]
+      },
+      "properties": {
+        "art_id": "TP0280",
+        "art_name": "我們在天空飛翔",
+        "district": "大同區",
+        "location": "台北市大同區慶北路三段320號／台北市立啟聰學校",
+        "author": "",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2006",
+        "manager": "臺北市政府工務局衛生下水道工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5496549,
+          25.0195029
+        ]
+      },
+      "properties": {
+        "art_id": "TP0285",
+        "art_name": "泳出",
+        "district": "大安區",
+        "location": "台北市大安區臥龍街129號大安國小游泳池側邊",
+        "author": "李佩珊老師帶領學生共同創作",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2007",
+        "manager": "臺北市大安區大安國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5249761,
+          25.0593841
+        ]
+      },
+      "properties": {
+        "art_id": "TP0286",
+        "art_name": "行雲",
+        "district": "中山區",
+        "location": "台北市中山區中山北路2段93巷23、40號間永盛公園內",
+        "author": "鄭明賢",
+        "material": "雕塑、其他：發光裝置",
+        "year_installed": "2007",
+        "manager": "臺北市停車管理處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5173189,
+          25.0452069
+        ]
+      },
+      "properties": {
+        "art_id": "TP0287",
+        "art_name": "抽絲剝繭、和平訊息",
+        "district": "中正區",
+        "location": "台北市中正區公園路15號",
+        "author": "達達美術研究開發有限公司",
+        "material": "壁畫浮雕、其他：不鏽鋼板壁飾",
+        "year_installed": "2007",
+        "manager": "臺北市政府工務局新建工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5676226,
+          24.9914605
+        ]
+      },
+      "properties": {
+        "art_id": "TP0291",
+        "art_name": "「奇幻世界」系列─光之精靈",
+        "district": "文山區",
+        "location": "台北市文山區秀明路一段169號＼台北市立文山特殊教育學校（後棟二樓川堂）",
+        "author": "吳建福",
+        "material": "雕塑",
+        "year_installed": "2007",
+        "manager": "臺北市立文山特殊教育學校",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5676226,
+          24.9914605
+        ]
+      },
+      "properties": {
+        "art_id": "TP0292",
+        "art_name": "「奇幻世界」系列─水之精靈",
+        "district": "文山區",
+        "location": "台北市文山區秀明路一段169號＼台北市立文山特殊教育學校（右側門中庭噴水區）",
+        "author": "吳建福",
+        "material": "雕塑",
+        "year_installed": "2007",
+        "manager": "臺北市立文山特殊教育學校",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5676226,
+          24.9914605
+        ]
+      },
+      "properties": {
+        "art_id": "TP0293",
+        "art_name": "「奇幻世界」系列─形之精靈",
+        "district": "文山區",
+        "location": "台北市文山區秀明路一段169號＼台北市立文山特殊教育學校（後花園人行步道區）",
+        "author": "吳建福",
+        "material": "雕塑",
+        "year_installed": "2007",
+        "manager": "臺北市立文山特殊教育學校",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0294",
+        "art_name": "重返伊甸園-1",
+        "district": "文山區",
+        "location": "台北市文山區116新光路二段30號（捷運動物園站出口至動物園售票口間之園界圍牆）",
+        "author": "李國嘉",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2007",
+        "manager": "臺北市立動物園",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0295",
+        "art_name": "重返伊甸園-2",
+        "district": "文山區",
+        "location": "台北市文山區116新光路二段30號（捷運動物園站出口至動物園售票口間之園界圍牆）",
+        "author": "李國嘉",
+        "material": "地坪鑲嵌",
+        "year_installed": "2007",
+        "manager": "臺北市立動物園",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5812262,
+          24.9986524
+        ]
+      },
+      "properties": {
+        "art_id": "TP0296",
+        "art_name": "重返伊甸園-3",
+        "district": "文山區",
+        "location": "臺北市文山區116新光路二段30號（動物園出入口處中央主牆面）",
+        "author": "李國嘉",
+        "material": "地坪鑲嵌",
+        "year_installed": "2007",
+        "manager": "臺北市立動物園",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5310558,
+          25.1105634
+        ]
+      },
+      "properties": {
+        "art_id": "TP0297",
+        "art_name": "欒樹故事",
+        "district": "士林區",
+        "location": "台北市士林區忠誠路2段51號  台北市立蘭雅國中左側人行道",
+        "author": "王存武",
+        "material": "雕塑、地坪鑲嵌",
+        "year_installed": "2009",
+        "manager": "臺北市立蘭雅國中",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5158669,
+          25.0673713
+        ]
+      },
+      "properties": {
+        "art_id": "TP0299",
+        "art_name": "夢想輪轉",
+        "district": "大同區",
+        "location": "台北市大同區大龍街136號(立體停車場牆面壁畫及管理員室上方)",
+        "author": "李岳庚",
+        "material": "其他：不銹鋼",
+        "year_installed": "2009",
+        "manager": "臺北市停車管理工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5155981,
+          25.0565443
+        ]
+      },
+      "properties": {
+        "art_id": "TP0300",
+        "art_name": "學步 Step by Step",
+        "district": "大同區",
+        "location": "台北市大同區寧夏路35號  新校舍中庭(中庭區域、1樓走廊紅磚柱面)",
+        "author": "",
+        "material": "街道傢俱、其他：地景裝置",
+        "year_installed": "2009",
+        "manager": "臺北市大同區蓬萊國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5155981,
+          25.0565443
+        ]
+      },
+      "properties": {
+        "art_id": "TP0301",
+        "art_name": "過往凝結-我的家園  編織夢想-我的家",
+        "district": "大同區",
+        "location": "台北市大同區寧夏路35號  連接新舊大門帶狀區域(寧夏路靠民生西路段圍牆、通學巷圍牆)",
+        "author": "褚瑞基",
+        "material": "工藝、壁畫浮雕",
+        "year_installed": "2009",
+        "manager": "臺北市大同區蓬萊國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5155981,
+          25.0565443
+        ]
+      },
+      "properties": {
+        "art_id": "TP0302",
+        "art_name": "對話",
+        "district": "大同區",
+        "location": "台北市大同區寧夏路35號  新校舍穿堂立面(太原路穿堂)",
+        "author": "湯皇珍",
+        "material": "其他：牆面體",
+        "year_installed": "2009",
+        "manager": "臺北市大同區蓬萊國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5296287,
+          25.0546796
+        ]
+      },
+      "properties": {
+        "art_id": "TP0303",
+        "art_name": "愛心 大隊接力 武術表演 下課時間 弄獅",
+        "district": "中山區",
+        "location": "台北中山區長春路116號 吉林國小活動中心無障礙電梯內部",
+        "author": "",
+        "material": "其他：陶板畫",
+        "year_installed": "2008",
+        "manager": "臺北市中山區吉林國民小學",
+        "city": "新北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5376537,
+          25.0639149
+        ]
+      },
+      "properties": {
+        "art_id": "TP0304",
+        "art_name": "繽紛人生",
+        "district": "中山區",
+        "location": "台北市中山區建國北路三段39號榮星公園入口廣場左側草地",
+        "author": "林昭慶",
+        "material": "雕塑",
+        "year_installed": "2009",
+        "manager": "臺北市停車管理工程處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5301757,
+          25.04977
+        ]
+      },
+      "properties": {
+        "art_id": "TP0305",
+        "art_name": "獨一無二",
+        "district": "中山區",
+        "location": "台北市中山區吉林路15號長安國民小學舊大樓北川堂壁面",
+        "author": "徐洵蔚",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2009",
+        "manager": "臺北市中山區長安國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5301577,
+          25.0592201
+        ]
+      },
+      "properties": {
+        "art_id": "TP0306",
+        "art_name": "親愛的˙我變大了",
+        "district": "中山區",
+        "location": "臺北市吉林路15號長安國民小學舊行政大樓一樓大門",
+        "author": "陶亞倫",
+        "material": "其他：複合媒材",
+        "year_installed": "2009",
+        "manager": "臺北市中山區長安國民小學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5225541,
+          25.0452933
+        ]
+      },
+      "properties": {
+        "art_id": "TP0307",
+        "art_name": "榮耀時空--歷史之心",
+        "district": "中正區",
+        "location": "台北市中正區忠孝東路一段7號 內政部警政署保安警察第六總隊",
+        "author": "林昭慶",
+        "material": "其他：銅雕結合多媒體",
+        "year_installed": "2009",
+        "manager": "內政部警政署保安第六總隊",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5225541,
+          25.0452933
+        ]
+      },
+      "properties": {
+        "art_id": "TP0308",
+        "art_name": "榮耀時空-- 翔",
+        "district": "中正區",
+        "location": "台北市中正區忠孝東路一段7號 內政部警政署保安警察第六總隊",
+        "author": "林昭慶",
+        "material": "其他：銅雕",
+        "year_installed": "2009",
+        "manager": "內政部警政署保安第六總隊",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5225541,
+          25.0452933
+        ]
+      },
+      "properties": {
+        "art_id": "TP0309",
+        "art_name": "榮耀時空--榮耀",
+        "district": "中正區",
+        "location": "台北市中正區忠孝東路一段7號 內政部警政署保安警察第六總隊",
+        "author": "林昭慶",
+        "material": "其他：銅雕",
+        "year_installed": "2009",
+        "manager": "內政部警政署保安警察第六總隊",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5302412,
+          25.0448149
+        ]
+      },
+      "properties": {
+        "art_id": "TP0310",
+        "art_name": "科技之窗、人文之門",
+        "district": "中正區",
+        "location": "台北市中正區金山北路77號（台北資訊產業大樓）入口左前方花台側",
+        "author": "賴新龍",
+        "material": "雕塑",
+        "year_installed": "2009",
+        "manager": "臺北市政府市場管理處",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0311",
+        "art_name": "愛的彩色城堡",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓1樓戶外區入口廣場",
+        "author": "李良仁",
+        "material": "雕塑",
+        "year_installed": "2009",
+        "manager": "國立臺灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0312",
+        "art_name": "手舞足蹈",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓1樓戶外區親子廣場",
+        "author": "鄭榳甄",
+        "material": "雕塑、街道傢俱",
+        "year_installed": "2009",
+        "manager": "國立臺灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0313",
+        "art_name": "滾球樂園",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓1樓室內電扶梯右側",
+        "author": "George Rhoads",
+        "material": "其他：動態機具",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0314",
+        "art_name": "我是莊士多",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓1樓室內候診區牆面",
+        "author": "吳孟芸",
+        "material": "其他：縫布壁飾",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0315",
+        "art_name": "健康 ‧ 快樂",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓1樓戶外區入口廣場",
+        "author": "張義",
+        "material": "其他：壁面掛飾",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0316",
+        "art_name": "布囉唆廣場",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓2樓室內遊戲區走道牆面",
+        "author": "吳孟芸",
+        "material": "壁畫鑲嵌",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0317",
+        "art_name": "美麗心世界",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓4樓室內走道牆面",
+        "author": "",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0318",
+        "art_name": "森之境界",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓8樓室內家屬等候區牆面",
+        "author": "夏愛華",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0319",
+        "art_name": "心念",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓11樓室內東護理站走道牆面",
+        "author": "潘仁松",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0320",
+        "art_name": "快樂成長",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓12樓室內西護理站走道牆面",
+        "author": "趙國宗",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0321",
+        "art_name": "七巧森林",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓12樓室內東護理站走道牆面",
+        "author": "陳曉朋",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0322",
+        "art_name": "來跳一支花非花舞吧",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 13樓室內西護理站走道牆面",
+        "author": "李昀珊",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0323",
+        "art_name": "奇幻魚",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓13樓室內東護理站走道牆面",
+        "author": "劉時棟",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0324",
+        "art_name": "你屬什麼？",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓14樓室內西護理站走道牆面",
+        "author": "官月淑",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0325",
+        "art_name": "希望之樹",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓14樓室內東護理站走道牆面",
+        "author": "林致安",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187591,
+          25.0443441
+        ]
+      },
+      "properties": {
+        "art_id": "TP0326",
+        "art_name": "布囉唆精靈",
+        "district": "中正區",
+        "location": "台北市中正區中山南路8號 台大醫院兒童醫療大樓B1樓室內走道牆面",
+        "author": "吳孟芸",
+        "material": "其他：壁面鑲掛",
+        "year_installed": "2009",
+        "manager": "國立台灣大學醫學院附設醫院",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5208476,
+          25.0428473
+        ]
+      },
+      "properties": {
+        "art_id": "TP0327",
+        "art_name": "春風化雨",
+        "district": "中正區",
+        "location": "台北市中正區濟南路一段71號 成功高級中學綜合大樓南向與東向2-4樓建築外牆立面",
+        "author": "",
+        "material": "其他：壁面外掛",
+        "year_installed": "2009",
+        "manager": "臺北市立成功高級中學",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5246166,
+          25.0380389
+        ]
+      },
+      "properties": {
+        "art_id": "TP0328",
+        "art_name": "起飛",
+        "district": "中正區",
+        "location": "台北市中正區仁愛路一段50號 交通部入口廣場",
+        "author": "高田悟",
+        "material": "雕塑",
+        "year_installed": "2009",
+        "manager": "中華電信股份有限公司台灣北區電信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5246166,
+          25.0380389
+        ]
+      },
+      "properties": {
+        "art_id": "TP0329",
+        "art_name": "資訊變換  時光流轉",
+        "district": "中正區",
+        "location": "台北市中正區仁愛路一段50號 交通部入口門廳",
+        "author": "宮島達男",
+        "material": "其他：壁掛",
+        "year_installed": "2009",
+        "manager": "中華電信股份有限公司台灣北區電信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5246166,
+          25.0380389
+        ]
+      },
+      "properties": {
+        "art_id": "TP0330",
+        "art_name": "生命之光",
+        "district": "中正區",
+        "location": "台北市中正區仁愛路一段50號 交通部入口廣場",
+        "author": "江賢二",
+        "material": "其他：壁掛",
+        "year_installed": "2009",
+        "manager": "中華電信股份有限公司台灣北區電信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5247249,
+          25.0375646
+        ]
+      },
+      "properties": {
+        "art_id": "TP0331",
+        "art_name": "時空",
+        "district": "中正區",
+        "location": "台北市中正區杭州南路一段24號1樓 中華電信仁愛綜合大樓西側排煙口挑高空間",
+        "author": "雷金",
+        "material": "其他：懸掛吊飾",
+        "year_installed": "2009",
+        "manager": "中華電信股份有限公司台灣北區電信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5247249,
+          25.0375646
+        ]
+      },
+      "properties": {
+        "art_id": "TP0332",
+        "art_name": "e大樓",
+        "district": "中正區",
+        "location": "台北市中正區杭州南路一段24號1樓 中華電信仁愛綜合大樓杭州南路入口門廳",
+        "author": "黃沛瑩",
+        "material": "雕塑",
+        "year_installed": "2009",
+        "manager": "中華電信股份有限公司台灣北區電信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5247249,
+          25.0375646
+        ]
+      },
+      "properties": {
+        "art_id": "TP0333",
+        "art_name": "電信是生活的一部份",
+        "district": "中正區",
+        "location": "台北市中正區杭州南路一段24號1樓 中華電信仁愛綜合大樓杭州南路入口門廳",
+        "author": "黃沛瑩",
+        "material": "雕塑",
+        "year_installed": "2009",
+        "manager": "中華電信股份有限公司台灣北區電信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5247249,
+          25.0375646
+        ]
+      },
+      "properties": {
+        "art_id": "TP0334",
+        "art_name": "波之舞",
+        "district": "中正區",
+        "location": "台北市中正區杭州南路一段24號1樓 中華電信仁愛綜合大樓杭州南路步道水景",
+        "author": "青鳥新媒體藝術",
+        "material": "其他：造景",
+        "year_installed": "2009",
+        "manager": "中華電信股份有限公司台灣北區電信分公司",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.611604,
+          25.0671411
+        ]
+      },
+      "properties": {
+        "art_id": "TP0339",
+        "art_name": "湖波盪漾",
+        "district": "內湖區",
+        "location": "台北市內湖區康寧路三段235號 台北捷運內湖線東湖站(B9站)車站入口處地面層牆面",
+        "author": "",
+        "material": "其他：浮雕",
+        "year_installed": "2009",
+        "manager": "臺北市政府捷運工程局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6026546,
+          25.0833163
+        ]
+      },
+      "properties": {
+        "art_id": "TP0340",
+        "art_name": "風箏--悠游天際",
+        "district": "內湖區",
+        "location": "台北市內湖區成功路五段11號  捷運內湖線大湖公園站  車站垂直動線挑空區",
+        "author": "莊文毅",
+        "material": "垂吊造型",
+        "year_installed": "2009",
+        "manager": "臺北市政府捷運工程局",
+        "city": "台北市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.536744,
+          24.9992044
+        ]
+      },
+      "properties": {
+        "art_id": "TP0343",
+        "art_name": "五行之思",
+        "district": "文山區",
+        "location": "台北市文山區景福街102號（內政部建築研究所材料實驗中心）基地東側入口左側",
+        "author": "賴哲祥",
+        "material": "雕塑",
+        "year_installed": "2009",
+        "manager": "內政部建築研究所",
+        "city": "台北市"
+      }
+    }
+  ]
+}
