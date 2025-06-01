@@ -1,0 +1,449 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5365486,24.9560407 ]
+    },
+    "properties": {
+    "name":"碧潭風景特定區",
+    "address":"231新北市新店區新店路",
+    "district":"新店區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3520756,24.94944561 ]
+    },
+    "properties": {
+    "name":"新北市立鶯歌陶瓷博物館",
+    "address":"239218新北市鶯歌區文化路200號",
+    "district":"鶯歌區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3500865,24.95157721 ]
+    },
+    "properties": {
+    "name":"鶯歌老街",
+    "address":"23941新北市鶯歌區尖山埔路",
+    "district":"鶯歌區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5484925,25.10263713 ]
+    },
+    "properties": {
+    "name":"國立故宮博物院",
+    "address":"111台北市士林區至善路二段221號",
+    "district":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5248102,25.07270331 ]
+    },
+    "properties": {
+    "name":"市立美術館",
+    "address":"10491台北市中山區中山北路三段181號",
+    "district":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5328376,25.07973215 ]
+    },
+    "properties": {
+    "name":"國民革命忠烈祠",
+    "address":"10491台北市中山區北安路139號",
+    "district":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5111565,25.03177392 ]
+    },
+    "properties": {
+    "name":"國立歷史博物館",
+    "address":"100台北市中正區南海路49號",
+    "district":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5164704,25.09632331 ]
+    },
+    "properties": {
+    "name":"國立臺灣科學教育館",
+    "address":"111台北市士林區士商路189號",
+    "district":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5120687,25.03240913 ]
+    },
+    "properties": {
+    "name":"國立臺灣藝術教育館",
+    "address":"100台北市中正區南海路47號",
+    "district":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5810715,24.99902051 ]
+    },
+    "properties": {
+    "name":"市立動物園",
+    "address":"116台北市文山區新光路二段30號",
+    "district":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5150532,25.09747751 ]
+    },
+    "properties": {
+    "name":"市立兒童新樂園",
+    "address":"11169台北市士林區承德路五段55號",
+    "district":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5183418,25.09602261 ]
+    },
+    "properties": {
+    "name":"市立天文科學教育館",
+    "address":"111台北市士林區基河路363號",
+    "district":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5252206,25.02051349 ]
+    },
+    "properties": {
+    "name":"客家文化主題公園",
+    "address":"100台北市中正區汀州路三段2號",
+    "district":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5499697,25.05114172 ]
+    },
+    "properties": {
+    "name":"小巨蛋",
+    "address":"105037台北市松山區南京東路四段2號",
+    "district":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5601594,25.04032219 ]
+    },
+    "properties": {
+    "name":"國立國父紀念館",
+    "address":"110台北市信義區仁愛路四段505號",
+    "district":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5291696,25.09149833 ]
+    },
+    "properties": {
+    "name":"士林官邸公園",
+    "address":"111台北市士林區中山北路五段460巷4號",
+    "district":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5302685,25.0726557 ]
+    },
+    "properties": {
+    "name":"林安泰古厝民俗文物館",
+    "address":"10491台北市中山區濱江街5號",
+    "district":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5519573,25.10112421 ]
+    },
+    "properties": {
+    "name":"順益臺灣原住民博物館",
+    "address":"111台北市士林區至善路二段282號",
+    "district":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5400035,25.15944031 ]
+    },
+    "properties": {
+    "name":"陽明公園",
+    "address":"112台北市北投區湖山路二段26號",
+    "district":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.515428,25.04092961 ]
+    },
+    "properties": {
+    "name":"二二八紀念館",
+    "address":"100台北市中正區凱達格蘭大道3號",
+    "district":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5056346,25.13739145 ]
+    },
+    "properties": {
+    "name":"國立中正紀念堂遊凱達格蘭文化館",
+    "address":"112台北市北投區中山路3-1號",
+    "district":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5644531,25.03423844 ]
+    },
+    "properties": {
+    "name":"台北101",
+    "address":"110台北市信義區信義路五段7號",
+    "district":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5576197,25.08320396 ]
+    },
+    "properties": {
+    "name":"美麗華百樂園摩天輪",
+    "address":"10491台北市中山區敬業三路20號5樓",
+    "district":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5161364,25.07296635 ]
+    },
+    "properties": {
+    "name":"臺北市孔廟",
+    "address":"103台北市大同區大龍街275號",
+    "district":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.508808,25.13712353 ]
+    },
+    "properties": {
+    "name":"梅庭",
+    "address":"112台北市北投區中山路6號",
+    "district":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5155596,25.07333229 ]
+    },
+    "properties": {
+    "name":"大龍峒保安宮",
+    "address":"103台北市大同區哈密街61號",
+    "district":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5101847,25.05572043 ]
+    },
+    "properties": {
+    "name":"台北霞海城隍廟",
+    "address":"103台北市大同區迪化街一段61號",
+    "district":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5990313,25.05294528 ]
+    },
+    "properties": {
+    "name":"臺北流行音樂中心",
+    "address":"115台北市南港區市民大道八段99號",
+    "district":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5243262,25.08540597 ]
+    },
+    "properties": {
+    "name":"臺北表演藝術中心",
+    "address":"111台北市士林區劍潭路1號",
+    "district":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5067948,25.042218 ]
+    },
+    "properties": {
+    "name":"西門紅樓",
+    "address":"108台北市萬華區成都路10號",
+    "district":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5380939,25.15437509 ]
+    },
+    "properties": {
+    "name":"草山行館",
+    "address":"112台北市北投區湖底路89號",
+    "district":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5322172,25.01084757 ]
+    },
+    "properties": {
+    "name":"寶藏巖",
+    "address":"100台北市中正區汀州路三段230巷14弄2號",
+    "district":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.531839,25.10455802 ]
+    },
+    "properties": {
+    "name":"芝山文化生態綠園",
+    "address":"111台北市士林區雨聲街120號",
+    "district":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5076801,25.04300858 ]
+    },
+    "properties": {
+    "name":"西門町商圈",
+    "address":"108台北市萬華區漢中街127號",
+    "district":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5605674,25.04405628 ]
+    },
+    "properties": {
+    "name":"松山文創園區",
+    "address":"11072台北市信義區光復南路133號",
+    "district":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5293308,25.04426298 ]
+    },
+    "properties": {
+    "name":"華山1914文化創意產業園區",
+    "address":"100台北市中正區八德路一段1號",
+    "district":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5093627,25.03199689 ]
+    },
+    "properties": {
+    "name":"台北植物園",
+    "address":"100台北市中正區南海路53號",
+    "district":"中正區"
+    }
+  }
+]
+}
